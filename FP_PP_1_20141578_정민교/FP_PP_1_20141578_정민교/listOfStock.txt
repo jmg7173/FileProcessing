@@ -1,0 +1,1401 @@
+1400
+000148963971|Veil|Gingham|8,000|3109|Washing Maching|L
+000616941744|Hoodie|Taffeta|47,100|7386|Tunnel Washer|S
+001016348550|Beret|Barkcloth|98,900|8964|Tunnel Washer|M
+000712288903|Overall|Moleskin|16,600|1859|Combo Washer Dryer|S
+000162624349|Turban|Donegal tweed|56,800|9153|Washing Maching|L
+000844447414|T-shirt|Nankeen|71,000|433|Dry Cleaning|L
+000895537904|Pajamas|Bombazine|91,900|5038|Combo Washer Dryer|XL
+000752938556|Hat|Taffeta|800|6247|Washing Maching|XL
+000356147483|Coat|Sateen|66,500|615|Washboard|S
+000398978348|Jumper|Herringbone|12,900|3198|Bleach|M
+002079151757|Cap|Broadcloth|23,900|7011|Washing Maching|M
+000816269174|Hoodie|Gingham|69,300|7987|Wet Cleaning|M
+001041062303|Belt|Duck|44,000|246|Tunnel Washer|M
+001815622933|Jersey|Polyester|92,400|3237|Washboard|XL
+000524718260|Sweater|Pongee|61,000|4463|Wet Cleaning|M
+000199377651|Beret|Charmeuse|13,600|756|Tunnel Washer|S
+000262561014|Jeans|Rayadillo|65,400|4649|Wet Cleaning|M
+000721548420|Jeans|Barathea|72,000|4797|Bleach|XL
+000878444858|Boot|Pongee|18,000|1024|Washing Maching|S
+001839994964|Slipper|Rayadillo|98,100|5462|Dry Cleaning|L
+001519061329|Coat|Habutai|87,900|6556|Washboard|XL
+001076375527|Shoe|Cotton|76,900|5799|Tunnel Washer|L
+000198891615|T-shirt|Paduasoy|67,100|2019|Washboard|M
+000754078319|Blazer|Calico|34,500|9249|Bleach|M
+001519571451|Shorts|Brilliantine|79,000|2455|Washboard|XL
+001054585343|Jumper|Tweed|33,000|362|Wet Cleaning|M
+000528887741|Shoe|Sateen|14,900|9328|Washboard|S
+001681213288|Helmet|Ripstop|2,100|6361|Washing Maching|XL
+001668583317|Gloves|Vegetable flannel|67,800|1043|Tunnel Washer|S
+000021147326|Scarf|Nainsook|52,500|3454|Washboard|L
+001182943132|Jacket|Nylon|72,100|5824|Dry Cleaning|XL
+001962354914|Blouse|Barathea|48,200|5798|Dry Cleaning|S
+000570760944|Jumper|Cordura|52,200|921|Washing Maching|M
+001745708784|Hat|Russell cord|78,600|4998|Dry Cleaning|S
+001662477695|Sandal|Bedford cord|49,000|4651|Wet Cleaning|M
+000040089233|Apron|Scrim|5,200|636|Washboard|M
+002031212657|Parka|Aertex|42,700|172|Washing Maching|M
+001473320175|Helmet|Wadmal|99,900|5208|Washboard|M
+000204515697|Jersey|Broadcloth|70,600|6874|Washboard|XL
+001662511185|Belt|Chambray|13,400|8672|Tunnel Washer|M
+001017744708|Coat|Vinyl coated polyester|69,200|6689|Tunnel Washer|XL
+000456118515|Blouse|Grosgrain|56,800|9281|Bleach|S
+001735877707|T-shirt|Voile|3,900|5713|Tunnel Washer|S
+001788215496|Hood|Serge|13,100|9155|Bleach|XL
+000733602267|Belt|Challis|95,900|5649|Tunnel Washer|M
+001469973549|Shoe|Linsey-woolsey|98,600|7584|Tunnel Washer|M
+001056333674|Parka|Haircloth|5,600|7928|Tunnel Washer|M
+002046112773|T-shirt|Barathea|38,500|1259|Combo Washer Dryer|S
+001143424815|Sandal|Tais|49,900|8275|Dry Cleaning|M
+001620346067|Coat|Polyester|25,700|8515|Washing Maching|S
+000924649934|Parka|Moleskin|27,200|6536|Combo Washer Dryer|XL
+000560425866|Shoe|Osnaburg|42,500|5522|Washboard|L
+001323309345|Blazer|Wadmal|96,500|4224|Dry Cleaning|L
+001421144339|Shorts|Dazzle|2,900|8828|Dry Cleaning|M
+000402538974|Skort|Dimity|96,500|6430|Dry Cleaning|S
+002013250312|Turban|Ottoman|81,100|4949|Washboard|L
+000849494899|Hat|Dornix|80,600|6055|Combo Washer Dryer|S
+001106948974|Necktie|Madras|86,600|5571|Tunnel Washer|M
+001256011311|Pajamas|Barkcloth|39,200|3899|Wet Cleaning|S
+002007180561|Apron|Haircloth|12,200|9379|Washboard|M
+001057458852|Trunks|Hodden|19,800|1276|Bleach|S
+000894994275|Fedora|Sateen|60,500|7596|Combo Washer Dryer|XL
+001657584174|Blouse|Grenfell Cloth|12,000|2777|Washing Maching|L
+001359785907|Necktie|Linen|5,100|6195|Dry Cleaning|S
+000782569077|Slipper|Rep|64,700|903|Bleach|M
+001083392302|Gloves|Aertex|77,700|7999|Washing Maching|L
+000578856093|Parka|Nylon|71,100|9481|Wet Cleaning|L
+001629472979|Tuxedo|Poplin|3,800|3972|Washing Maching|L
+000783347388|Cap|Polyester|59,900|4206|Tunnel Washer|L
+001436860796|Scarf|Broadcloth|59,600|6606|Washing Maching|L
+000809840986|Hoodie|Ninon|72,800|2749|Washboard|S
+001537010935|Trunks|Irish linen|26,500|1480|Dry Cleaning|S
+000010679833|Necktie|Char cloth|24,300|1602|Bleach|S
+001714171729|Blazer|Beta cloth|35,100|1288|Bleach|S
+001787940655|Jeans|Bunting|21,800|5974|Wet Cleaning|L
+000644464137|Gown|Zephyr|11,400|8992|Tunnel Washer|M
+001218988455|Parka|Organza|39,300|7001|Tunnel Washer|S
+000131895694|Jacket|Herringbone|56,000|7901|Washboard|M
+001260252536|Hat|Nankeen|84,300|2873|Washboard|S
+000869337056|Pajamas|Seersucker|51,100|2652|Washing Maching|M
+000334101559|Necktie|Brilliantine|70,600|7414|Washing Maching|L
+001737614014|Jersey|Himroo|1,700|8190|Combo Washer Dryer|XL
+001517350910|Hat|Canvas|18,100|309|Wet Cleaning|L
+001032986224|Boot|Nylon|58,400|2441|Washing Maching|S
+000213192908|Pajamas|Aertex|84,600|7704|Bleach|S
+000907718913|Helmet|Cretonne|83,400|4543|Wet Cleaning|XL
+000004388676|Sandal|Kerseymere|77,300|7330|Washboard|XL
+001170376668|Jersey|Taffeta|93,500|6175|Tunnel Washer|S
+001631289566|Shorts|Nylon|85,900|8366|Washboard|M
+000557245260|Veil|Bunting|56,300|7727|Dry Cleaning|XL
+000577228742|Hood|Nankeen|77,700|9753|Tunnel Washer|XL
+001001972660|Blazer|Rayon|96,700|7361|Tunnel Washer|XL
+000637460812|Shirt|Shot silk|12,400|3002|Washing Maching|XL
+000814044242|Turban|Lamé|30,500|5800|Bleach|S
+000064669370|Overall|Burlap|99,500|8911|Washboard|XL
+000072555353|Beret|Barkcloth|82,100|7894|Combo Washer Dryer|S
+001057252395|Sandal|Fustian|75,900|3645|Washing Maching|M
+001326645736|Shorts|Flannel|10,000|1554|Wet Cleaning|M
+001761317329|T-shirt|Drill|85,000|2296|Wet Cleaning|L
+001636866872|Slipper|Nylon|33,600|3208|Combo Washer Dryer|XL
+000818095594|Cap|Organdy|33,200|244|Combo Washer Dryer|L
+000013238463|Coat|Cedar bark|54,200|9820|Wet Cleaning|L
+000054167969|Overall|Pongee|10,000|3853|Dry Cleaning|S
+000790426352|Boot|Dornix|26,800|7763|Bleach|M
+000831652655|Shoe|Linsey-woolsey|59,500|745|Bleach|M
+001410205530|Coat|Haircloth|3,900|367|Washing Maching|L
+000115316991|Sweater|Crêpe|85,500|6136|Washing Maching|L
+000237518817|Scarf|Crape|4,800|8775|Washboard|XL
+001340676376|Jacket|Spandex|20,600|5534|Combo Washer Dryer|M
+001055501342|Trunks|Scarlet|98,900|1110|Tunnel Washer|L
+000909672684|Shoe|Russell cord|5,600|1403|Washing Maching|M
+001629146866|Cap|Harris Tweed|3,400|4096|Tunnel Washer|S
+000696195140|Scarf|Lawn|72,800|1926|Washing Maching|S
+000976933705|Jersey|Zephyr|16,100|3093|Tunnel Washer|XL
+000465892582|Jersey|Vinyl coated polyester|22,600|4944|Dry Cleaning|S
+000090111449|Hat|Aertex|70,400|6605|Bleach|M
+001552372288|Parka|Vegetable flannel|88,600|4210|Washing Maching|M
+000890878948|Necktie|Haircloth|92,100|9114|Combo Washer Dryer|M
+001623479179|Veil|Burlap|81,300|9346|Dry Cleaning|XL
+000357862165|Sandal|Lamé|92,400|5139|Bleach|L
+000013964924|Cap|Saye|41,800|257|Bleach|M
+001365412405|Scarf|Bedford cord|31,300|7752|Dry Cleaning|L
+001836173128|Jumper|Duck|70,500|8040|Wet Cleaning|M
+000048884816|Shoe|Dimity|53,900|2192|Dry Cleaning|XL
+000241433937|Jeans|Cretonne|72,900|6076|Wet Cleaning|S
+001523367912|Gloves|Voile|22,100|8267|Washing Maching|XL
+001272372029|T-shirt|Madapolam|35,100|9393|Washboard|L
+001776601624|Shoe|Moleskin|97,100|9097|Tunnel Washer|L
+000962067908|Blazer|Rayon|43,500|8249|Washboard|S
+002141333158|Fedora|Paduasoy|100|6612|Wet Cleaning|L
+000361309723|Beret|Coutil|57,800|1549|Dry Cleaning|L
+000474979976|Shorts|Canvas|92,100|4345|Tunnel Washer|L
+001463263802|Tuxedo|Chambray|19,400|7371|Bleach|S
+001333637441|Veil|Zorbeez|1,600|8058|Bleach|S
+001857481805|Overall|Tweed|95,000|456|Bleach|M
+000584342667|Shirt|Drugget|14,600|150|Bleach|XL
+001979393142|Parka|Cloqué|8,500|6951|Washing Maching|XL
+000957338712|Hood|Khādī|4,700|8677|Wet Cleaning|M
+000268391528|Slipper|Cheesecloth|94,200|6570|Dry Cleaning|S
+000721591436|Hoodie|Saye|50,300|2537|Bleach|L
+000434493339|Parka|Gazar|1,300|4880|Tunnel Washer|S
+000417607846|Hood|Capilene|80,200|2303|Bleach|M
+000406797939|Helmet|Ventile|35,700|925|Washboard|L
+000213166544|Blazer|Cheesecloth|92,500|4518|Combo Washer Dryer|XL
+001708153803|Veil|Mackinaw|6,200|7758|Combo Washer Dryer|S
+000685028703|Tuxedo|Ottoman|10,300|2487|Tunnel Washer|M
+001178338584|Beret|Bengaline silk|8,600|2475|Tunnel Washer|S
+000484759001|Necktie|Viyella|28,600|3629|Tunnel Washer|L
+000944782143|Jeans|Buckram|38,600|6810|Washboard|XL
+001814818212|Cap|Hodden|41,100|5859|Bleach|S
+002021014291|Skort|Linsey-woolsey|20,800|5332|Washboard|M
+001217883248|Veil|Kente cloth|79,800|1060|Combo Washer Dryer|M
+000089594405|Trunks|Tais|10,000|9457|Washboard|XL
+002026323258|Boot|Whipcord|62,700|2846|Washing Maching|S
+002093135333|Belt|Oxford|91,000|5712|Washboard|XL
+001556018006|Shoe|Buckram|3,500|8669|Tunnel Washer|L
+001498785082|Shirt|Jamdani|700|4367|Wet Cleaning|L
+000051452612|Gown|Madapolam|49,400|9921|Wet Cleaning|L
+001630849822|Jersey|Twill|20,100|2456|Tunnel Washer|S
+001554819700|Sandal|Himroo|36,800|3418|Wet Cleaning|L
+000113517395|Jacket|Samite|70,600|658|Bleach|XL
+000059793867|Hoodie|Gingham|16,000|3649|Wet Cleaning|S
+000564308216|Helmet|Georgette|78,100|2857|Bleach|S
+000933610651|Shorts|Cloth of gold|12,000|8331|Bleach|L
+001243277757|Tuxedo|Silk|44,700|1205|Washboard|L
+001951286038|Gloves|Chino|82,400|6152|Washboard|S
+000381552195|Gloves|Scarlet|41,600|8640|Combo Washer Dryer|XL
+001085975803|Trunks|Char cloth|74,100|4166|Wet Cleaning|S
+001537673179|Boot|Linen|8,400|818|Washing Maching|XL
+002129966326|Apron|Organdy|97,300|1487|Washboard|M
+001576332507|Jeans|Cedar bark|54,100|4729|Tunnel Washer|XL
+001665512029|Jeans|Herringbone|53,300|7100|Washboard|S
+002094283975|Apron|Twill|28,600|4606|Washboard|M
+002112607017|Belt|Kente cloth|20,700|2610|Wet Cleaning|M
+001578272904|Pajamas|Samite|82,100|2921|Dry Cleaning|M
+000373828426|Turban|Dornix|29,300|4579|Tunnel Washer|S
+001870432521|Sweater|Bombazine|18,000|583|Bleach|L
+002118185864|Tuxedo|Organdy|27,000|8141|Washboard|L
+000410529410|Coat|Cloqué|64,800|8393|Washboard|XL
+000506798281|Shorts|Dowlas|56,900|5283|Combo Washer Dryer|XL
+000926738711|Coat|Elastic|24,200|772|Tunnel Washer|L
+001885809460|Turban|Gingham|76,200|8733|Combo Washer Dryer|XL
+001074759765|Hoodie|Calico|700|6515|Washboard|S
+000794243352|Shirt|Osnaburg|3,300|516|Tunnel Washer|L
+001405423192|Hat|Satin|9,500|8111|Tunnel Washer|S
+002128698970|Jeans|Loden|80,400|9285|Washboard|L
+000953444863|Hoodie|Rayon|93,100|434|Bleach|XL
+000828954367|Sweater|Chino|61,700|6770|Washing Maching|M
+000640248696|Jumper|Habutai|24,500|3388|Wet Cleaning|XL
+001516236553|Trunks|Fur|83,200|4784|Bleach|L
+001192323158|Skort|Broadcloth|7,200|4723|Bleach|XL
+001506485974|Boot|Airdura|93,900|1671|Tunnel Washer|M
+000551962814|Shirt|Habutai|79,900|5547|Wet Cleaning|M
+001091159680|Shorts|Cordura|48,700|8802|Bleach|XL
+001684641423|Pajamas|Osnaburg|17,600|218|Washboard|XL
+001604459996|Helmet|Crêpe|11,000|8091|Bleach|M
+000075090238|Coat|Organdy|80,900|4171|Washing Maching|L
+002043925935|Overall|Batiste|2,600|6508|Washing Maching|XL
+001200037141|Overall|Cambric|29,900|9319|Washing Maching|L
+002015124139|Veil|Longcloth|46,600|2532|Washing Maching|L
+000765272783|Jacket|Wool|55,200|7974|Wet Cleaning|L
+001414816979|Blouse|Canvas|52,600|2830|Dry Cleaning|XL
+000655427685|Necktie|Wigan|93,700|2726|Combo Washer Dryer|L
+001017863578|Hoodie|Tais|37,100|617|Tunnel Washer|S
+001560486143|Trunks|Viyella|22,300|1925|Dry Cleaning|M
+000528084083|Trunks|Nylon|89,100|174|Tunnel Washer|XL
+000834475877|Jersey|Jamdani|96,000|7360|Wet Cleaning|M
+000046354473|Turban|Percale|93,100|4542|Washing Maching|XL
+000623699663|Turban|Rayon|96,900|7113|Wet Cleaning|S
+000359409925|Hat|Donegal tweed|52,700|8936|Tunnel Washer|M
+001458032467|Veil|Silk|22,000|9721|Washing Maching|M
+000760167594|Gown|Chambray|78,300|1769|Wet Cleaning|M
+000996776816|Sweater|Barkcloth|62,700|7212|Combo Washer Dryer|XL
+000195932220|Sandal|Char cloth|200|4372|Washboard|S
+000547280827|Blazer|Cordura|40,800|453|Tunnel Washer|S
+001272110095|Veil|Flannel|65,500|4629|Wet Cleaning|S
+000863069389|T-shirt|Taffeta|11,100|5248|Tunnel Washer|M
+000456993827|Blouse|Linsey-woolsey|81,400|2335|Bleach|M
+002023007131|T-shirt|Rep|22,700|9032|Wet Cleaning|M
+001046463434|Parka|Organza|99,500|2024|Washboard|M
+000605445062|Veil|Herringbone|9,700|9512|Bleach|S
+000103337274|Apron|Charmeuse|54,900|5110|Wet Cleaning|L
+000106097629|Hood|Aertex|40,300|8487|Washboard|XL
+000914985781|Turban|Habutai|83,500|5870|Combo Washer Dryer|XL
+001984580158|Turban|Habutai|19,800|2372|Combo Washer Dryer|L
+000997700899|Boot|Dowlas|33,400|7149|Bleach|L
+001484030500|Hat|Elastic|78,000|5429|Washing Maching|S
+001154437639|Coat|Ripstop|65,800|6433|Washing Maching|L
+000105226629|Hat|Cretonne|66,200|7345|Combo Washer Dryer|M
+000768899857|Trunks|Chino|10,400|3203|Tunnel Washer|M
+001256736444|Scarf|Nylon|45,600|7305|Washboard|M
+000628502973|Parka|Challis|83,100|1372|Combo Washer Dryer|M
+000337157968|Scarf|Viyella|84,300|891|Dry Cleaning|L
+001362082226|Sandal|Aertex|42,200|6212|Tunnel Washer|S
+001826154173|Veil|Foulard|46,600|4220|Dry Cleaning|S
+000747546155|Parka|Loden|10,500|3151|Washboard|S
+000779127656|Parka|Airguard|25,500|7253|Combo Washer Dryer|XL
+001401263457|Apron|Tucuyo|25,500|6105|Combo Washer Dryer|L
+001273800680|Scarf|Cambric|79,300|414|Washing Maching|M
+001466385639|Necktie|Tucuyo|11,400|6982|Washboard|S
+001784950278|Fedora|Cloqué|9,700|1539|Tunnel Washer|S
+002141057008|Coat|Chiffon|84,700|3215|Combo Washer Dryer|L
+001561693316|Parka|Duck|49,800|9943|Washing Maching|S
+001988308867|Gloves|Samite|90,800|5619|Washboard|S
+000575443808|Shoe|Pongee|20,700|6385|Combo Washer Dryer|M
+000629486144|Apron|Seersucker|52,000|7682|Washboard|XL
+000054853931|Blazer|Irish linen|40,100|8132|Wet Cleaning|M
+001498292382|Gloves|Dornix|95,500|9656|Dry Cleaning|L
+000025943590|Gown|Muslin|91,400|4703|Washing Maching|M
+001326881307|Helmet|Bedford cord|88,900|9275|Bleach|M
+001512775111|Parka|Silk|71,400|6506|Washboard|XL
+000678504173|Turban|Serge|88,000|6321|Dry Cleaning|XL
+000995512791|Apron|Cloth of gold|12,600|7366|Washing Maching|S
+001835365819|T-shirt|Beta cloth|38,300|6081|Bleach|XL
+000131922558|Slipper|Poplin|72,700|9654|Wet Cleaning|M
+001136499804|Turban|Drugget|7,700|9558|Tunnel Washer|XL
+000771576860|Helmet|Madras|61,200|1335|Wet Cleaning|L
+000832204056|Hood|Cheesecloth|26,200|6498|Wet Cleaning|M
+001275761714|Veil|Loden|97,300|3207|Bleach|M
+000204121962|Gown|Silk|200|8792|Tunnel Washer|XL
+000002147833|Pajamas|Whipcord|13,200|2920|Washboard|S
+000339778014|Scarf|Rep|8,900|34|Wet Cleaning|L
+000706050028|Scarf|Rakematiz|56,600|7522|Wet Cleaning|S
+000438207607|Veil|Habutai|43,700|6580|Combo Washer Dryer|L
+001810148464|Gloves|Batiste|50,700|9650|Wet Cleaning|XL
+001290424739|Fedora|Vegetable flannel|25,000|1201|Wet Cleaning|XL
+000069345861|Parka|Fustian|25,000|6652|Combo Washer Dryer|L
+001827958960|Scarf|Rayadillo|18,400|4963|Tunnel Washer|S
+000370403391|Helmet|Nylon|37,900|8598|Bleach|M
+001792965457|Apron|Seersucker|49,100|9059|Dry Cleaning|M
+001444199714|Veil|Osnaburg|49,300|7520|Dry Cleaning|M
+001835662286|Shirt|Buckram|54,100|1965|Bleach|M
+001856785631|Gloves|Sateen|39,400|4018|Dry Cleaning|M
+000955321216|Cap|Polyester|21,300|4861|Washing Maching|M
+000843675595|Necktie|Zorbeez|93,800|3260|Combo Washer Dryer|L
+001011595715|Coat|Nylon|46,700|2648|Combo Washer Dryer|M
+001235690024|Necktie|Ventile|70,000|5148|Washing Maching|XL
+000698120579|Shorts|Oxford|73,600|9862|Wet Cleaning|M
+001765007197|Helmet|Ripstop|47,900|1850|Dry Cleaning|M
+001265495851|Fedora|Herringbone|9,900|972|Combo Washer Dryer|L
+000601481097|Jumper|Bombazine|79,500|5219|Combo Washer Dryer|L
+002023218649|Veil|Grosgrain|78,200|2956|Washboard|S
+001693014284|Veil|Grenfell Cloth|19,500|1711|Tunnel Washer|S
+000008277246|Blazer|Samite|52,400|4169|Dry Cleaning|L
+001510225899|Sweater|Cordura|75,500|1369|Combo Washer Dryer|L
+001254470065|Belt|Percale|29,100|4628|Wet Cleaning|S
+000453506970|Shoe|Rinzu|8,400|1072|Washboard|XL
+000245057613|Shirt|Linen|69,900|6410|Combo Washer Dryer|S
+001958313354|Jersey|Fur|73,800|684|Washboard|S
+001828299115|Cap|Challis|12,000|7494|Bleach|M
+000687430110|Pajamas|Wigan|8,800|7170|Bleach|M
+001377964931|Sweater|Habutai|4,700|8695|Bleach|L
+001226363536|Helmet|Cheesecloth|37,900|5059|Dry Cleaning|L
+001177568062|Trunks|Voile|6,700|6278|Wet Cleaning|XL
+001604237391|Gloves|Brilliantine|31,900|8447|Bleach|L
+001874421603|Cap|Whipcord|41,400|9459|Wet Cleaning|XL
+001965610191|Apron|Osnaburg|70,900|9834|Tunnel Washer|S
+001657820489|Pajamas|Calico|11,900|1511|Washing Maching|S
+000532785241|Sweater|Chambray|67,600|3078|Combo Washer Dryer|S
+001693116322|Jumper|Loden|63,800|6211|Tunnel Washer|S
+001471335784|Shirt|Tucuyo|89,800|1269|Dry Cleaning|L
+001860398792|Necktie|Georgette|34,100|7407|Tunnel Washer|XL
+000063466796|Blouse|Haircloth|20,300|6422|Washboard|S
+000837240351|Fedora|Aertex|46,100|9606|Dry Cleaning|S
+001147221448|Tuxedo|Chino|12,900|7615|Tunnel Washer|L
+001612720866|Jacket|Nainsook|29,900|1984|Tunnel Washer|XL
+000789985559|Trunks|Ripstop|84,500|2891|Dry Cleaning|M
+001632899422|T-shirt|Aertex|61,800|9377|Dry Cleaning|L
+000438604439|Pajamas|Buckram|75,700|9711|Bleach|M
+001954225955|Trunks|Drugget|26,500|5182|Washboard|L
+000143442589|Jersey|Cretonne|70,200|5304|Bleach|S
+001520466407|Apron|Grenfell Cloth|57,500|9209|Washing Maching|XL
+001033057232|Gloves|Herringbone|10,400|1174|Washing Maching|XL
+000173800276|Slipper|Batiste|42,200|4920|Bleach|L
+001373987526|Fedora|Corduroy|5,200|5772|Washing Maching|XL
+000481540464|Overall|Grenfell Cloth|81,700|4956|Dry Cleaning|S
+001333774341|Trunks|Canvas|62,300|1454|Wet Cleaning|M
+001481695310|Parka|Organza|12,700|8714|Combo Washer Dryer|L
+000695732493|Jacket|Cheesecloth|81,500|1791|Bleach|S
+000184769838|Trunks|Broadcloth|36,300|469|Combo Washer Dryer|XL
+001875822331|Blouse|Donegal tweed|7,400|5615|Tunnel Washer|L
+001877844441|Sweater|Wadmal|11,800|9108|Dry Cleaning|XL
+000195906798|Slipper|Broadcloth|55,200|56|Washing Maching|XL
+001150050807|Coat|Challis|12,600|7058|Washing Maching|M
+001467297629|Parka|Cloth of gold|55,500|1082|Dry Cleaning|M
+000241850247|Trunks|Buckram|23,600|6717|Wet Cleaning|S
+001760537680|Trunks|Brilliantine|18,800|5582|Washboard|XL
+001623065806|Blazer|Canvas|82,200|189|Washing Maching|M
+000027306643|Necktie|Muslin|44,200|9675|Dry Cleaning|M
+000372241646|Blazer|Russell cord|23,000|1219|Washboard|S
+000914463627|Shoe|Denim|6,100|1571|Washing Maching|S
+000918487842|Tuxedo|Brilliantine|56,500|2142|Tunnel Washer|XL
+001159123079|Tuxedo|Rayon|22,300|4946|Washing Maching|M
+001761366749|Helmet|Organza|98,100|3708|Washing Maching|M
+000869991785|Gloves|Rakematiz|97,100|6668|Tunnel Washer|L
+000759849531|Cap|Russell cord|42,100|5874|Combo Washer Dryer|L
+002090508698|Helmet|Nainsook|11,200|4636|Wet Cleaning|S
+000871026636|T-shirt|Cordura|69,800|8315|Dry Cleaning|L
+000859216924|Trunks|Crape|54,000|1593|Bleach|M
+000257517358|Trunks|Grosgrain|44,900|7105|Wet Cleaning|XL
+000644393063|T-shirt|Coutil|48,200|5443|Combo Washer Dryer|XL
+000888589321|Sweater|Nankeen|22,300|5217|Dry Cleaning|S
+001846187610|Gown|Ninon|53,000|1752|Dry Cleaning|M
+002105997610|Helmet|Drill|62,400|9914|Wet Cleaning|L
+001631461138|Veil|Challis|57,300|1563|Dry Cleaning|M
+001264718184|Shoe|Char cloth|90,500|255|Bleach|L
+001601847073|Helmet|Crape|33,400|6377|Washing Maching|M
+001554246585|Sandal|Crêpe|10,300|7787|Bleach|XL
+002046557570|Slipper|Gingham|46,200|4765|Bleach|M
+000919040371|Beret|Ninon|89,800|1523|Wet Cleaning|M
+000358841934|Jumper|Mackinaw|46,600|2976|Tunnel Washer|M
+000985158326|Sandal|Dornix|85,600|7781|Combo Washer Dryer|XL
+000957580100|Overall|Habutai|94,400|2299|Wet Cleaning|S
+000853502048|T-shirt|Muslin|18,000|9409|Wet Cleaning|S
+001091863572|Gloves|Samite|63,600|8226|Washboard|S
+001614549273|Blazer|Crape|50,900|7269|Dry Cleaning|S
+002124682354|Shirt|Russell cord|26,400|9637|Combo Washer Dryer|S
+001597008601|Jacket|Georgette|83,100|1992|Washing Maching|M
+001853292538|Apron|Gabardine|71,900|6998|Wet Cleaning|XL
+000966089893|Scarf|Tais|32,100|4412|Washboard|S
+000086515507|Blouse|Satin|38,400|8016|Bleach|M
+001699920001|Slipper|Ottoman|98,100|2881|Washboard|L
+000911413741|Scarf|Char cloth|44,500|7218|Combo Washer Dryer|L
+001998022544|Skort|Muslin|12,900|6598|Wet Cleaning|XL
+000609015439|Shirt|Crêpe|80,000|9299|Bleach|M
+000768306484|Overall|Saye|73,800|1093|Washing Maching|XL
+000092636501|Hat|Habutai|68,600|4827|Dry Cleaning|M
+000713671300|Shirt|Batiste|44,100|5017|Bleach|L
+000160224784|Gloves|Char cloth|33,600|7085|Washboard|XL
+001853766683|Turban|Drill|6,900|7662|Tunnel Washer|XL
+001817469924|Sandal|Bunting|97,100|1900|Washboard|S
+001657949909|Jersey|Twill|71,100|9694|Tunnel Washer|XL
+000973262939|Skort|Harris Tweed|84,200|6602|Washboard|M
+001399471196|Sweater|Elastic|9,400|8239|Wet Cleaning|XL
+000809849989|Jersey|Grenfell Cloth|99,700|1803|Wet Cleaning|XL
+001641096830|Blouse|Hodden|54,100|3292|Tunnel Washer|M
+001873110858|Jacket|Mackinaw|15,400|8237|Bleach|M
+001846147926|Helmet|Rakematiz|16,900|1129|Tunnel Washer|S
+000387492949|Sandal|Chintz|80,700|1700|Washing Maching|S
+001715373183|Shirt|Silk|8,200|6940|Washing Maching|M
+001296549867|Overall|Osnaburg|73,200|7118|Washing Maching|XL
+001732048426|Shoe|Zorbeez|16,600|9350|Bleach|M
+001557999180|Parka|Cedar bark|92,100|2672|Washboard|XL
+002108026326|Hood|Crape|99,700|967|Wet Cleaning|S
+001011312125|Pajamas|Oxford|7,800|2329|Dry Cleaning|L
+001076540114|Parka|Batiste|36,300|3690|Wet Cleaning|L
+001532439921|Shirt|Donegal tweed|43,500|6800|Tunnel Washer|L
+001534959560|Veil|Charvet|30,300|8039|Bleach|M
+000043184164|Pajamas|Whipcord|67,900|6856|Combo Washer Dryer|M
+000303970424|Scarf|Corduroy|69,100|6133|Washboard|XL
+000151465981|Veil|Kerseymere|50,100|9613|Tunnel Washer|XL
+002100906086|Slipper|Linen|54,100|5650|Washing Maching|M
+001953140301|Coat|Challis|33,500|4238|Combo Washer Dryer|L
+000676217162|Cap|Kente cloth|10,600|7449|Dry Cleaning|L
+001652931283|Hoodie|Coutil|39,500|5801|Dry Cleaning|XL
+001981397460|Helmet|Dazzle|3,200|3614|Dry Cleaning|S
+000508264940|Hat|Oilskin|17,000|5834|Washboard|S
+001811929265|Pajamas|Saga Nishiki|2,900|8688|Bleach|M
+001889961084|Scarf|Fustian|47,400|2464|Tunnel Washer|XL
+000436756836|Beret|Oxford|15,700|7578|Tunnel Washer|L
+000587325136|Necktie|Ultrasuede|35,500|2701|Dry Cleaning|XL
+000843968889|Coat|Wool|99,800|2636|Bleach|M
+001022819841|Pajamas|Dowlas|33,100|2202|Wet Cleaning|M
+000974514382|Tuxedo|Tais|91,200|3672|Tunnel Washer|S
+000039891397|Necktie|Flannel|40,600|79|Washing Maching|M
+000259689956|Hoodie|Challis|38,400|8907|Washboard|S
+001032968160|Hat|Rep|10,000|4576|Dry Cleaning|M
+000918484938|Jeans|Samite|44,100|8998|Washboard|L
+001285748237|Pajamas|Capilene|78,900|2581|Tunnel Washer|S
+002039180611|Blazer|Scrim|22,200|1473|Dry Cleaning|M
+000192397679|Veil|Lawn|900|1283|Wet Cleaning|S
+001956419111|T-shirt|Moleskin|79,700|3571|Wet Cleaning|M
+001910122134|Jumper|Dimity|11,700|3372|Wet Cleaning|XL
+000865764017|Cap|Lawn|8,400|5366|Tunnel Washer|S
+000806578947|Boot|Madras|1,300|8794|Wet Cleaning|S
+000081482537|Shorts|Chino|27,000|6504|Combo Washer Dryer|XL
+002105827396|Sweater|Elastic|37,500|192|Bleach|XL
+002036011601|Jeans|Nainsook|37,800|5902|Wet Cleaning|XL
+000723304365|Scarf|Fur|75,000|4142|Tunnel Washer|L
+000771874419|Trunks|Seersucker|3,900|4433|Washing Maching|S
+001638714760|Tuxedo|Rakematiz|55,400|9342|Wet Cleaning|M
+000629469870|Shoe|Mackinaw|39,500|2560|Washboard|XL
+000680625410|Necktie|Bedford cord|49,200|7036|Dry Cleaning|XL
+000475196989|Boot|Chintz|88,800|8081|Washboard|L
+000724729591|Overall|Satin|41,000|8429|Wet Cleaning|S
+000999862321|Apron|Cambric|42,800|533|Bleach|XL
+000570604089|Overall|Drill|78,500|4769|Tunnel Washer|XL
+001932139605|Shirt|Brilliantine|86,500|6400|Combo Washer Dryer|S
+001947384018|Jumper|Paduasoy|69,300|5062|Washboard|S
+000331240977|Jacket|Crêpe|21,400|4731|Washboard|M
+001229379603|Shorts|Russell cord|62,900|3145|Combo Washer Dryer|M
+001553098711|Tuxedo|Rayon|39,100|9926|Wet Cleaning|S
+000092158031|Shoe|Donegal tweed|7,700|7391|Combo Washer Dryer|L
+001604743743|Cap|Gazar|44,900|36|Tunnel Washer|S
+000334201385|Slipper|Osnaburg|22,600|6343|Dry Cleaning|L
+000848923060|Jumper|Bunting|24,300|2655|Washboard|L
+000603534070|Helmet|Lamé|22,000|2038|Combo Washer Dryer|M
+001331166874|Scarf|Cedar bark|54,600|9284|Washboard|S
+000598447349|Belt|Irish linen|49,400|5742|Washing Maching|S
+001207125382|Jumper|Canvas|6,800|955|Dry Cleaning|S
+000701297424|Gown|Grenadine|73,300|9230|Combo Washer Dryer|L
+001233906327|Hood|Fur|80,000|3670|Washboard|S
+001023679449|Tuxedo|Georgette|99,400|7137|Washboard|XL
+001125399411|Jacket|Polyester|66,000|2619|Dry Cleaning|S
+001065420367|Gloves|Crape|97,800|5302|Dry Cleaning|S
+000904031850|Jersey|Fur|68,700|8055|Dry Cleaning|S
+001640985421|Blouse|Chiffon|15,600|4891|Washboard|XL
+000717241042|Blazer|Cloqué|29,700|1973|Tunnel Washer|M
+001698252643|Beret|Chambray|53,000|4388|Dry Cleaning|XL
+001228041769|Jumper|Wool|49,300|7051|Washing Maching|M
+001627343402|Apron|Canvas|26,700|423|Washing Maching|L
+001350270463|Hoodie|Foulard|33,800|217|Wet Cleaning|M
+000485880501|Sandal|Khādī|2,600|4596|Tunnel Washer|XL
+001109277053|Jeans|Haircloth|44,200|4149|Washboard|L
+000404916333|Shirt|Poplin|31,200|2591|Washboard|S
+000071551263|Beret|Osnaburg|32,100|1835|Dry Cleaning|L
+000867145463|Blouse|Dazzle|92,300|3783|Tunnel Washer|S
+001114341705|Shirt|Sateen|73,200|4442|Combo Washer Dryer|S
+001563619194|Necktie|Ninon|11,300|6884|Bleach|L
+001069325920|Jeans|Bunting|53,300|6964|Dry Cleaning|L
+000838574265|T-shirt|Lamé|6,200|6787|Combo Washer Dryer|XL
+001942810994|Scarf|Linen|62,900|3180|Washing Maching|S
+000561938299|Turban|Percale|6,000|2752|Bleach|L
+001888278306|Blouse|Lawn|74,000|4053|Bleach|M
+000614138041|Jacket|Nankeen|53,800|2881|Washing Maching|M
+001508835764|Shoe|Pongee|99,200|9491|Dry Cleaning|L
+000207110355|Overall|Grenfell Cloth|2,900|5150|Dry Cleaning|S
+000176297538|Blazer|Canvas|7,400|7219|Washing Maching|L
+001092655619|Shirt|Organza|16,700|5503|Combo Washer Dryer|XL
+000006814221|Belt|Broadcloth|46,900|3531|Bleach|L
+000239167532|Gloves|Saga Nishiki|98,300|6687|Dry Cleaning|S
+000363502367|T-shirt|Dazzle|26,100|8087|Dry Cleaning|L
+001484084820|Turban|Madapolam|19,300|7796|Washboard|L
+000224157702|Boot|Foulard|31,300|4079|Wet Cleaning|L
+001867264066|Apron|Kente cloth|13,300|6588|Wet Cleaning|M
+001807227783|Beret|Challis|82,600|6364|Combo Washer Dryer|L
+002101686933|Veil|Barathea|72,800|2719|Washboard|L
+000741683634|Fedora|Haircloth|35,700|1671|Washing Maching|S
+000835283448|Overall|Tucuyo|10,300|2954|Wet Cleaning|L
+000068784218|Fedora|Cloth of gold|71,700|3223|Combo Washer Dryer|L
+001036857030|Apron|Cloqué|8,500|8448|Tunnel Washer|L
+001538735172|Blouse|Drill|87,100|2963|Dry Cleaning|XL
+000955939606|Jumper|Bengaline silk|62,100|6385|Washing Maching|L
+001969164329|Hoodie|Shot silk|63,200|3155|Bleach|L
+000377648370|Hat|Eolienne|42,900|3566|Bleach|XL
+001034287889|Hat|Twill|92,700|7878|Bleach|L
+001279412385|Slipper|Organza|27,800|426|Washboard|M
+000529779145|Belt|Foulard|34,200|9326|Combo Washer Dryer|L
+000259998830|Slipper|Nylon|98,100|8920|Bleach|M
+001709370321|Shorts|Cotton|28,300|7836|Washboard|S
+000201809616|Beret|Organza|26,200|6157|Wet Cleaning|L
+000021712200|Tuxedo|Georgette|1,600|7269|Washing Maching|M
+001815685025|Shoe|Osnaburg|45,900|1476|Washing Maching|S
+002006801117|Skort|Gauze|67,400|3998|Combo Washer Dryer|M
+001239863664|Skort|Pongee|28,000|443|Tunnel Washer|L
+001930049973|Gloves|Cloqué|84,900|9182|Washboard|S
+001511860053|Hoodie|Jamdani|64,000|5451|Washboard|M
+000162840258|Veil|Moleskin|65,900|2475|Bleach|L
+000654142533|Overall|C change|17,600|4618|Tunnel Washer|L
+000251943037|Tuxedo|Ventile|58,600|4661|Combo Washer Dryer|S
+000548000129|Turban|Shot silk|29,900|183|Tunnel Washer|XL
+000252910285|Jacket|Airdura|53,200|7220|Tunnel Washer|XL
+000175719073|Hat|Burlap|5,400|2066|Washboard|XL
+000026282965|Slipper|Gazar|34,600|1800|Bleach|M
+001199375529|T-shirt|Zorbeez|8,500|6642|Dry Cleaning|M
+000901937673|Apron|Wigan|43,800|8185|Washing Maching|M
+000037600202|Belt|Rep|4,800|5578|Dry Cleaning|M
+000022139165|Turban|Bedford cord|58,100|5210|Combo Washer Dryer|M
+001887106387|Helmet|Paduasoy|27,200|803|Bleach|L
+001073464676|Trunks|Cloth of gold|45,100|4173|Washing Maching|XL
+000002648524|Turban|Rep|85,700|4948|Washboard|M
+001366298543|Jersey|Charvet|81,200|3361|Tunnel Washer|M
+000167133472|Gown|Kerseymere|87,000|3540|Washing Maching|L
+000644133332|Fedora|Barathea|48,900|9063|Bleach|M
+000824682616|Fedora|Chino|82,200|1278|Washing Maching|S
+000662041040|Apron|Nankeen|70,800|6634|Tunnel Washer|XL
+000156285666|Turban|Burlap|78,700|586|Washing Maching|L
+001425140885|Sweater|Georgette|3,000|8369|Wet Cleaning|M
+001512235255|Overall|Vinyl coated polyester|34,300|2533|Washing Maching|XL
+000803569209|Sweater|Capilene|500|7052|Dry Cleaning|L
+000026304970|Blazer|Organza|32,200|845|Wet Cleaning|M
+000917433651|Scarf|Rinzu|98,900|382|Washboard|XL
+000960675076|T-shirt|Madras|88,200|3147|Tunnel Washer|XL
+001272212903|Hood|Challis|88,200|2399|Wet Cleaning|L
+001085369531|Veil|Crape|61,500|8119|Dry Cleaning|L
+001127618502|Overall|Dazzle|66,000|4578|Washboard|M
+000626528486|Parka|Grosgrain|75,700|8661|Washing Maching|S
+001757946703|Sweater|Percale|66,600|1528|Wet Cleaning|L
+000355845705|Fedora|Satin|22,500|5528|Bleach|L
+002019087868|Gloves|Elastic|68,100|6635|Washing Maching|M
+000646874292|Coat|Rakematiz|31,100|918|Dry Cleaning|M
+001826376522|Jersey|Bombazine|66,700|4012|Wet Cleaning|L
+001863334989|Shoe|Gauze|83,000|9092|Combo Washer Dryer|S
+000119232911|Necktie|Buckram|24,600|3590|Bleach|M
+000759275377|Pajamas|Samite|93,100|8871|Bleach|S
+002064486619|Parka|Pongee|60,700|2012|Combo Washer Dryer|XL
+000132014934|Parka|Kente cloth|96,700|8706|Washboard|XL
+002111745762|Sandal|Grenfell Cloth|30,200|3695|Dry Cleaning|M
+001878579716|Jersey|Osnaburg|84,400|9591|Combo Washer Dryer|XL
+001471257472|Cap|Canvas|1,300|787|Wet Cleaning|S
+002110547996|Hood|Chintz|58,400|4715|Washing Maching|XL
+000045726022|Jumper|Oilskin|62,400|8269|Washboard|S
+000671586123|Hoodie|Bunting|76,400|2512|Dry Cleaning|M
+002078961235|Shoe|Cheesecloth|77,300|2953|Combo Washer Dryer|S
+000586480387|Fedora|Canvas|49,400|6213|Combo Washer Dryer|XL
+000693331545|Pajamas|Coutil|78,400|8487|Bleach|L
+001585910744|Overall|Zorbeez|98,400|617|Washboard|L
+000825534255|Shirt|Airguard|54,200|6687|Bleach|L
+001404611643|Necktie|Fustian|4,600|4481|Washing Maching|S
+000382368089|Sandal|Bunting|70,200|2438|Combo Washer Dryer|XL
+001447553381|Boot|Dimity|68,700|8697|Bleach|S
+001621394914|Jersey|Crêpe|23,500|3307|Washboard|S
+000200327536|Blazer|Drill|23,400|3021|Dry Cleaning|XL
+000468946614|Trunks|Barkcloth|94,900|2432|Wet Cleaning|L
+001255327603|Skort|Chintz|89,600|7059|Tunnel Washer|L
+001810803213|Jeans|Denim|77,300|1967|Bleach|XL
+001460456829|Trunks|Chintz|35,100|8432|Combo Washer Dryer|S
+000428740106|Shirt|Nylon|75,200|1733|Washing Maching|L
+000050361953|Jacket|Twill|47,800|6342|Washboard|M
+001193171002|Hood|Bengaline silk|67,300|3021|Wet Cleaning|M
+001056628143|Jacket|Ottoman|23,900|9188|Tunnel Washer|S
+000451885292|Fedora|Drugget|20,400|8748|Bleach|M
+001328606667|Jumper|Lamé|61,700|9968|Washing Maching|M
+001287370205|Helmet|Madapolam|200|8253|Washing Maching|M
+000240138786|Necktie|Longcloth|200|7093|Washing Maching|L
+001165632794|Beret|Jamdani|55,700|4907|Bleach|L
+000351869463|Scarf|Scarlet|91,700|4907|Bleach|XL
+001441855238|Fedora|Drugget|88,400|2309|Wet Cleaning|S
+002138118576|Helmet|Seersucker|2,500|845|Combo Washer Dryer|S
+001312955416|Helmet|Mackinaw|63,300|3414|Washing Maching|M
+000018616622|Scarf|Chintz|55,800|7531|Tunnel Washer|L
+001736888449|Hat|Lamé|56,700|7333|Washboard|M
+001032762255|Skort|Rayon|86,600|3152|Washing Maching|L
+000141559072|Gown|Pongee|89,400|6329|Dry Cleaning|M
+001227147445|Jersey|Airdura|48,100|7630|Washboard|L
+001359553046|Hat|Grosgrain|18,700|1795|Dry Cleaning|XL
+000540800354|Tuxedo|Viyella|61,800|5929|Bleach|L
+000602007834|Sweater|Dornix|49,800|1098|Wet Cleaning|S
+000429214148|Hat|Chino|87,400|2807|Wet Cleaning|M
+000537464061|Sweater|Herringbone|96,800|7485|Combo Washer Dryer|M
+001809890565|Slipper|Buckram|12,300|1164|Bleach|M
+000062412559|Cap|Tais|56,200|7576|Tunnel Washer|L
+001016865363|Necktie|Tucuyo|61,700|8112|Wet Cleaning|XL
+001401303688|Belt|Russell cord|66,100|2963|Combo Washer Dryer|L
+001732815016|Trunks|Grenfell Cloth|93,200|57|Wet Cleaning|L
+001400114659|Overall|Vinyl coated polyester|72,100|9064|Combo Washer Dryer|M
+001779343265|Trunks|Longcloth|60,300|329|Tunnel Washer|S
+000315598515|Shirt|Cheesecloth|91,300|3994|Wet Cleaning|XL
+001115603140|Veil|Grenfell Cloth|98,200|7139|Wet Cleaning|M
+000943096318|Jumper|Dornix|33,800|6080|Washing Maching|L
+000619436222|Trunks|Dazzle|75,300|391|Washing Maching|S
+001494452211|Tuxedo|Samite|69,200|832|Wet Cleaning|S
+001248338948|Cap|Pongee|33,700|7243|Washboard|S
+002095028952|Apron|Rayon|77,300|4699|Bleach|M
+001352744287|Tuxedo|Rayadillo|4,800|7600|Wet Cleaning|S
+001407077400|Blouse|Wool|17,900|302|Dry Cleaning|S
+001668441980|Belt|Burlap|36,600|4708|Wet Cleaning|L
+001808470848|Scarf|Taffeta|77,600|4307|Washboard|XL
+001801836064|Jacket|Samite|12,200|4051|Tunnel Washer|L
+000312294955|Blazer|Barkcloth|52,000|6754|Washing Maching|M
+001481450830|Hoodie|Denim|47,500|7268|Combo Washer Dryer|L
+000182217476|T-shirt|Rinzu|92,700|3631|Dry Cleaning|L
+001770847449|Parka|Samite|54,900|768|Wet Cleaning|S
+001507738280|Jersey|Harris Tweed|38,300|1407|Washboard|XL
+000634378874|Belt|Dazzle|17,500|1150|Combo Washer Dryer|S
+002010575756|Coat|Habutai|91,300|2304|Bleach|S
+000146880207|Pajamas|Cordura|69,100|1529|Tunnel Washer|S
+000137796254|Shorts|Ultrasuede|48,600|3432|Combo Washer Dryer|M
+001946014845|Blouse|Fur|46,700|5944|Tunnel Washer|S
+001112410568|Hat|Fur|41,200|6257|Combo Washer Dryer|L
+000486383557|Jersey|Ventile|31,600|4352|Washboard|L
+000858069386|Boot|Grenfell Cloth|79,000|8128|Dry Cleaning|L
+000620145024|Cap|Airdura|45,500|5923|Washing Maching|L
+001646907172|Jumper|Capilene|68,400|1460|Washing Maching|S
+001955633993|Blazer|Calico|96,400|5518|Dry Cleaning|M
+001768916721|Shirt|Elastic|26,400|456|Washing Maching|XL
+001528668432|Apron|Silk|99,700|5651|Wet Cleaning|L
+000508028555|Shoe|Polyester|6,400|8034|Bleach|S
+000879043059|Tuxedo|Broadcloth|42,100|8106|Wet Cleaning|S
+000325051449|Blazer|Haircloth|99,600|5489|Combo Washer Dryer|S
+000374709716|Coat|Cloqué|20,600|9585|Washboard|M
+000243770171|Cap|Rayon|94,100|8447|Combo Washer Dryer|L
+000996123631|Boot|Elastic|93,300|6739|Dry Cleaning|S
+001683808347|Hat|Twill|38,500|7938|Combo Washer Dryer|M
+000914193004|Skort|Satin|88,100|9873|Combo Washer Dryer|M
+001276279545|Boot|Haircloth|7,700|1711|Wet Cleaning|S
+001695696973|Jeans|Hodden|10,100|7233|Tunnel Washer|S
+000491492297|Fedora|Chintz|71,600|7203|Washing Maching|M
+000914652711|Jersey|Cretonne|78,200|482|Dry Cleaning|S
+001032314567|Hat|Grenfell Cloth|58,400|1824|Wet Cleaning|L
+000254877597|Beret|Buckram|16,000|8314|Washing Maching|M
+001888323622|Veil|Moleskin|13,000|2625|Combo Washer Dryer|L
+001423529910|Jacket|Cheesecloth|97,200|5286|Washing Maching|S
+001388708662|Belt|Bombazine|75,300|6664|Tunnel Washer|S
+001325413965|Boot|Paduasoy|80,400|3516|Bleach|L
+000662831177|Belt|Bedford cord|18,300|837|Wet Cleaning|L
+000885538116|Shoe|Aertex|56,800|7030|Dry Cleaning|L
+000793534974|Gown|Longcloth|64,600|8585|Wet Cleaning|M
+000365107292|Skort|Vegetable flannel|96,100|404|Washing Maching|S
+001889467031|Coat|Habutai|18,400|1516|Combo Washer Dryer|L
+001330019641|Jacket|Polyester|50,000|6569|Combo Washer Dryer|XL
+000110960703|Hoodie|Shot silk|53,000|1457|Combo Washer Dryer|L
+000652250001|Trunks|Capilene|33,000|9601|Washboard|XL
+000363158419|Blouse|Cloqué|35,000|948|Washing Maching|XL
+001397610442|Veil|Twill|7,800|7363|Combo Washer Dryer|M
+001637800685|Blouse|Fustian|62,500|5373|Washing Maching|XL
+002030319989|T-shirt|Charvet|15,700|4000|Wet Cleaning|L
+001346143498|Boot|Barkcloth|31,800|8895|Combo Washer Dryer|XL
+001834360776|Jeans|Bunting|69,200|5182|Wet Cleaning|L
+001365923011|Coat|Ultrasuede|36,400|486|Washing Maching|M
+000671703534|Gloves|Flannel|22,900|3545|Tunnel Washer|M
+000318306897|Jumper|Khaki drill|73,900|5191|Dry Cleaning|S
+002136478462|Turban|Cretonne|49,500|1304|Dry Cleaning|XL
+000741170700|T-shirt|Calico|38,600|5556|Dry Cleaning|M
+001153270611|Pajamas|Madapolam|9,600|1705|Bleach|M
+000168444842|Beret|Gingham|72,200|3579|Washing Maching|L
+000202524950|Pajamas|Brilliantine|85,600|8859|Wet Cleaning|M
+001596320450|Shoe|Batiste|22,900|6863|Combo Washer Dryer|S
+001845239887|Hat|Harris Tweed|25,700|2530|Bleach|S
+000381023136|Necktie|Drugget|37,300|207|Washboard|L
+001686488894|Belt|Batiste|60,200|3351|Combo Washer Dryer|M
+001969900350|Beret|Percale|27,300|1685|Tunnel Washer|XL
+000460465144|Jumper|Burlap|51,100|5546|Dry Cleaning|XL
+001220901109|Hood|Eolienne|17,400|9170|Combo Washer Dryer|XL
+001378765049|Skort|Ventile|63,900|8967|Tunnel Washer|S
+001568693839|Veil|Aertex|64,800|6430|Washboard|S
+001297249863|Shirt|Khaki drill|31,000|290|Bleach|L
+000541067536|Hoodie|Rinzu|14,600|8004|Combo Washer Dryer|S
+001826773621|Jacket|Grosgrain|6,600|898|Wet Cleaning|M
+000093393034|Hat|Ottoman|54,300|2922|Tunnel Washer|L
+000253768386|Helmet|Lamé|69,300|4347|Dry Cleaning|XL
+000153241454|Hoodie|Pongee|26,200|5745|Combo Washer Dryer|XL
+000568120776|Turban|Ripstop|44,300|4872|Wet Cleaning|M
+000451078067|Beret|Harris Tweed|4,200|6332|Bleach|S
+000857115069|Overall|Dazzle|68,000|235|Tunnel Washer|L
+000025545783|Beret|Donegal tweed|2,600|9503|Dry Cleaning|L
+000945380686|Blazer|Cambric|71,400|3548|Combo Washer Dryer|XL
+001939907466|Belt|Saga Nishiki|97,300|8320|Washing Maching|S
+000477708624|Apron|Cambric|53,600|1792|Bleach|XL
+001959885991|Parka|Cedar bark|5,500|3327|Dry Cleaning|L
+001335143454|Tuxedo|Tweed|74,100|7039|Wet Cleaning|XL
+000562226643|Coat|Twill|60,800|6625|Tunnel Washer|XL
+001362658608|Overall|Charmeuse|61,900|2169|Bleach|M
+001396409746|Fedora|Barkcloth|77,300|60|Combo Washer Dryer|XL
+001926593906|Slipper|Ultrasuede|5,000|4903|Wet Cleaning|XL
+001947144201|Boot|Saye|45,800|8947|Tunnel Washer|XL
+001855424834|Boot|Airguard|36,100|9320|Dry Cleaning|XL
+001290087001|Gloves|Shot silk|57,800|9735|Washboard|XL
+000188836216|Blazer|Broadcloth|39,700|9989|Wet Cleaning|S
+000275783298|Overall|Sateen|64,900|8417|Combo Washer Dryer|L
+001460452216|Beret|Lamé|54,800|4786|Combo Washer Dryer|S
+000504243149|Turban|Cotton|46,300|8701|Bleach|L
+001902488896|Apron|Aertex|13,700|8190|Washing Maching|M
+001574221293|Hoodie|Gingham|63,700|7534|Washing Maching|XL
+000611896368|Gown|Longcloth|4,500|1007|Dry Cleaning|XL
+001421504335|Hood|Organdy|8,600|7676|Washing Maching|S
+001930590176|Sandal|Harris Tweed|61,900|1263|Washboard|M
+002140895383|Jeans|Scrim|93,300|9848|Wet Cleaning|S
+001339748034|Jacket|Herringbone|42,100|1000|Tunnel Washer|XL
+000117204109|Boot|Chintz|28,900|7008|Dry Cleaning|XL
+000445014207|Shorts|Cotton|97,800|3992|Bleach|M
+002002137372|Pajamas|Gabardine|96,700|7551|Bleach|M
+001555071854|Boot|Gingham|78,000|73|Tunnel Washer|L
+002113991051|T-shirt|Ripstop|65,400|2150|Wet Cleaning|XL
+001215365530|Blazer|Bunting|62,500|2216|Combo Washer Dryer|XL
+000857042963|T-shirt|Polyester|73,800|9342|Washing Maching|M
+001217965048|Boot|Beta cloth|56,000|8130|Tunnel Washer|S
+001315369955|Jeans|Cambric|51,300|6797|Washing Maching|L
+001695282320|T-shirt|Crêpe|900|5444|Combo Washer Dryer|XL
+000689343995|Helmet|Fur|83,900|7901|Wet Cleaning|XL
+000248285230|Blouse|Batiste|58,600|1061|Dry Cleaning|XL
+000694076410|Fedora|Challis|97,300|2735|Washboard|S
+001177802936|Jersey|Poplin|42,800|4472|Tunnel Washer|M
+000139409911|Tuxedo|Herringbone|15,500|4702|Washboard|XL
+000317379750|Helmet|Dowlas|90,600|9985|Washing Maching|M
+001705565725|Slipper|Corduroy|99,200|8472|Washing Maching|XL
+000894194453|Hood|Tweed|98,500|2619|Washboard|L
+001408413532|Hood|Batiste|11,000|368|Washing Maching|M
+000921192307|Hoodie|Herringbone|59,600|6613|Tunnel Washer|L
+000135380428|Coat|Flannel|93,900|7481|Combo Washer Dryer|XL
+001387262137|Beret|Cotton|8,800|3973|Combo Washer Dryer|L
+001852614023|Belt|Calico|50,300|2534|Bleach|L
+000679850196|Overall|Duck|24,600|5096|Wet Cleaning|S
+000101288261|Necktie|Ghalamkar|25,300|135|Dry Cleaning|L
+000666499011|Apron|Harris Tweed|54,900|2626|Bleach|S
+000384390014|Jersey|Beta cloth|9,900|4469|Bleach|XL
+001360860461|Veil|Muslin|30,800|4616|Combo Washer Dryer|L
+001367977268|Jeans|Osnaburg|51,100|8955|Bleach|XL
+000862819551|Gloves|Ninon|27,400|4830|Combo Washer Dryer|S
+001461263035|Apron|Tais|93,400|9637|Wet Cleaning|L
+000448866843|Jeans|Khādī|79,300|6977|Washing Maching|M
+001410372421|Shirt|Wadmal|22,100|4627|Combo Washer Dryer|M
+001596769518|Belt|Oilskin|70,600|1606|Dry Cleaning|XL
+001292204637|Jacket|Sateen|22,200|8144|Washboard|M
+000364352417|Trunks|Dimity|61,400|3845|Combo Washer Dryer|M
+001861216238|Scarf|Dazzle|98,900|469|Tunnel Washer|M
+000605338927|Jumper|Grenfell Cloth|51,900|6568|Dry Cleaning|L
+001105149905|Slipper|Cedar bark|40,900|6895|Dry Cleaning|S
+000541221805|Hat|Drugget|35,100|514|Bleach|M
+001652543837|Boot|Himroo|66,900|5380|Bleach|S
+000050289624|Skort|Toile|12,100|2086|Tunnel Washer|XL
+000531048643|T-shirt|Charmeuse|83,800|4382|Washing Maching|M
+001677531327|Hat|Moleskin|91,500|8069|Dry Cleaning|L
+001214105438|Shirt|Burlap|26,500|1401|Bleach|XL
+000728079525|Sandal|Habutai|81,700|621|Wet Cleaning|XL
+000863756256|Hood|Bengaline silk|87,000|1116|Combo Washer Dryer|XL
+001418635649|Sweater|Organdy|79,700|8161|Bleach|M
+002072782507|Hood|Zephyr|7,400|4818|Washboard|S
+000580627247|Fedora|Cloqué|27,800|5800|Washboard|S
+001348554422|Trunks|Osnaburg|99,500|4651|Tunnel Washer|S
+000373904123|Shirt|Lamé|10,800|7908|Wet Cleaning|M
+000604845018|Helmet|Nainsook|27,000|8833|Washboard|L
+000245193107|Sandal|Saga Nishiki|60,700|5146|Bleach|L
+000222922301|Pajamas|Organza|84,400|602|Washboard|L
+001023626502|Necktie|Fur|25,600|7402|Wet Cleaning|XL
+001180270307|Shoe|Challis|38,600|1020|Tunnel Washer|M
+000411594547|Belt|Dimity|46,100|2334|Tunnel Washer|XL
+000836424823|Hoodie|Batiste|7,700|6284|Washing Maching|M
+002032972333|Hood|Drugget|92,500|8539|Tunnel Washer|M
+001891852940|Blouse|Barkcloth|87,900|8083|Washing Maching|M
+001580389102|Necktie|Harris Tweed|75,400|7509|Tunnel Washer|M
+000194743169|Jacket|Organdy|21,800|7789|Tunnel Washer|M
+000207797845|Jeans|Scarlet|87,400|4190|Washing Maching|S
+000028541549|Apron|Calico|90,800|1969|Washboard|L
+000968052105|Trunks|Rayadillo|19,600|204|Dry Cleaning|L
+000615762224|Hood|Scarlet|40,900|2110|Wet Cleaning|L
+001048181061|Scarf|Bengaline silk|97,400|7572|Washing Maching|S
+001400500601|Sweater|Hodden|53,300|378|Washing Maching|M
+000870178666|Jumper|Serge|50,500|3200|Tunnel Washer|S
+000892576782|Helmet|Tais|35,700|3856|Dry Cleaning|L
+000721647816|Skort|Saye|45,500|7889|Tunnel Washer|XL
+001705405968|Belt|Vegetable flannel|25,200|1978|Washboard|M
+001809758602|Necktie|Elastic|700|5425|Bleach|L
+001424643229|Jumper|Muslin|35,100|3067|Combo Washer Dryer|S
+002029036671|Boot|Zephyr|39,500|3194|Wet Cleaning|S
+000516874320|Fedora|Georgette|31,400|8627|Combo Washer Dryer|XL
+000812612306|Sweater|Drill|29,400|2895|Tunnel Washer|S
+002054948454|Overall|C change|97,500|1626|Combo Washer Dryer|M
+000584972823|T-shirt|Bedford cord|4,900|4599|Tunnel Washer|S
+000894078752|Turban|Beta cloth|71,700|3671|Tunnel Washer|S
+000156289095|Overall|Lawn|22,700|8303|Tunnel Washer|XL
+001727236103|Jacket|Poplin|94,700|3056|Dry Cleaning|L
+001498895044|Trunks|Chiffon|24,400|7237|Washing Maching|L
+000620704575|Boot|Challis|49,800|362|Dry Cleaning|M
+001614568532|Hat|Serge|90,900|586|Tunnel Washer|L
+000916654341|T-shirt|Cotton|93,700|4615|Bleach|XL
+001876522812|Veil|Zephyr|70,900|838|Washboard|L
+001493263095|Gloves|Bengaline silk|1,500|4871|Bleach|M
+002070703352|Trunks|Khaki drill|87,400|5492|Combo Washer Dryer|L
+000397645969|Shorts|Saga Nishiki|5,600|8344|Tunnel Washer|XL
+000751829259|Gown|Zorbeez|65,400|8196|Washboard|L
+001924255534|Hat|Beta cloth|11,900|3529|Tunnel Washer|S
+001290007229|Pajamas|Dornix|78,500|2669|Wet Cleaning|S
+000640496662|Helmet|Dowlas|18,300|1882|Washboard|XL
+000181737625|Beret|Barkcloth|70,800|9793|Wet Cleaning|M
+001965117112|Hood|Lamé|9,800|6766|Wet Cleaning|L
+000705481961|Trunks|Lawn|79,700|6785|Dry Cleaning|XL
+001140141838|Belt|Eolienne|69,700|8609|Tunnel Washer|L
+001596982483|Parka|Cotton|34,700|4622|Dry Cleaning|M
+001922262830|Necktie|Loden|71,900|9831|Dry Cleaning|L
+001615556363|Turban|Lawn|61,400|5089|Washing Maching|XL
+000797761830|Necktie|Shot silk|75,600|2375|Washboard|XL
+001704158302|Hat|Airguard|71,800|5644|Wet Cleaning|M
+001610021777|Jeans|Osnaburg|24,100|2096|Dry Cleaning|M
+000051851780|Scarf|Tucuyo|58,300|1337|Dry Cleaning|S
+000263602610|Hood|Batiste|43,700|6935|Combo Washer Dryer|S
+000335682676|Cap|Ghalamkar|71,500|9648|Bleach|S
+001372170228|Parka|Linen|29,700|9080|Wet Cleaning|M
+000737000690|Scarf|Bunting|51,700|2872|Combo Washer Dryer|M
+000111462205|T-shirt|Organza|36,200|7847|Washing Maching|XL
+000249637467|Blouse|Barathea|82,200|2913|Washboard|M
+000898017707|Apron|Denim|91,000|5247|Washing Maching|XL
+000889644143|Belt|Paduasoy|68,500|8395|Dry Cleaning|M
+000068410992|Helmet|Toile|34,400|461|Tunnel Washer|M
+002074126729|Apron|Serge|38,700|3512|Wet Cleaning|M
+000577018995|Beret|Gazar|56,800|6860|Wet Cleaning|M
+001167222476|Shorts|Tweed|56,400|780|Tunnel Washer|L
+002075200630|Overall|Muslin|84,400|1425|Bleach|XL
+000790825373|Sweater|Flannel|2,000|8773|Tunnel Washer|M
+001920207388|Boot|Mackinaw|20,100|8387|Bleach|XL
+002147163776|Blouse|Shot silk|10,700|1935|Washing Maching|S
+000805623097|Helmet|Scarlet|15,700|3216|Combo Washer Dryer|XL
+000558433402|Pajamas|Whipcord|5,900|1008|Tunnel Washer|L
+000128385022|Cap|Pongee|45,400|3924|Bleach|L
+001583323637|T-shirt|Wadmal|81,300|6586|Tunnel Washer|XL
+001320899725|Jumper|Dimity|45,800|2970|Wet Cleaning|L
+001903888603|Hat|Flannel|71,600|500|Bleach|M
+001639309103|Jumper|Challis|91,700|3561|Bleach|S
+000375689259|Jeans|Zorbeez|75,300|9784|Bleach|XL
+001920861010|Necktie|Nylon|32,700|2481|Washboard|S
+001205164236|Jeans|Barkcloth|9,500|3605|Washboard|M
+002113854622|Beret|Polyester|31,800|5203|Tunnel Washer|M
+000721154911|Skort|Cordura|21,200|3156|Wet Cleaning|L
+000537663531|Hat|Coutil|43,200|4265|Combo Washer Dryer|L
+000617626289|Jeans|Crêpe|77,000|8527|Bleach|L
+000404019430|Trunks|Wigan|7,800|9762|Wet Cleaning|M
+001150479760|Trunks|Char cloth|38,600|8108|Combo Washer Dryer|M
+000165379264|Jumper|Ottoman|67,100|7302|Dry Cleaning|S
+001516483277|Gown|Twill|7,500|5108|Combo Washer Dryer|L
+000037620600|Apron|Cordura|29,100|7403|Washing Maching|L
+001803682779|Shoe|Gingham|50,700|1646|Washing Maching|XL
+000529072168|Tuxedo|Crape|44,600|3004|Bleach|XL
+001916164873|Hood|Hodden|72,000|3992|Bleach|XL
+001688498315|Beret|Scrim|84,100|7612|Combo Washer Dryer|L
+001185881069|Veil|Rayadillo|84,500|7326|Bleach|S
+001184216052|Sandal|Elastic|39,800|3984|Bleach|L
+001745230796|Parka|Linsey-woolsey|78,500|2033|Bleach|S
+001254395161|Coat|Ghalamkar|27,200|8042|Washing Maching|XL
+001013482403|Helmet|Ventile|19,800|2505|Bleach|XL
+000864899311|Belt|Capilene|98,000|9429|Washboard|L
+001794948030|Hoodie|Capilene|59,500|1444|Wet Cleaning|XL
+000675119263|Scarf|Serge|35,500|9473|Washing Maching|S
+000772146937|Trunks|Samite|88,200|8355|Combo Washer Dryer|XL
+000635238798|Pajamas|Duck|24,900|2934|Combo Washer Dryer|M
+000402129889|Shorts|Khaki drill|21,000|17|Bleach|L
+000904294025|Jersey|Dowlas|90,100|3694|Washboard|L
+000317353541|Pajamas|Lawn|89,700|224|Tunnel Washer|XL
+001943443749|Helmet|Fur|35,400|8943|Dry Cleaning|L
+001343171795|Coat|Foulard|88,800|163|Dry Cleaning|S
+000162822257|Scarf|Cloth of gold|18,700|5464|Combo Washer Dryer|M
+001333762001|Cap|Mackinaw|89,000|5833|Dry Cleaning|XL
+001217104977|Pajamas|Broadcloth|55,500|1693|Tunnel Washer|M
+000554660998|Sandal|Rayon|42,400|8418|Wet Cleaning|M
+001665974825|Boot|Eolienne|40,200|411|Dry Cleaning|L
+001016947926|Trunks|Loden|61,600|4567|Washboard|XL
+000506793432|Jersey|Madapolam|42,300|7274|Washing Maching|M
+000900686681|Necktie|Tucuyo|48,400|8793|Dry Cleaning|M
+000082894244|Necktie|Chiffon|200|7408|Combo Washer Dryer|L
+000084599855|Fedora|Ventile|77,300|5536|Bleach|S
+000405859077|Hood|Charvet|9,600|4551|Washing Maching|XL
+001268675311|Belt|Georgette|71,600|6183|Washboard|S
+001653519744|Slipper|Challis|5,300|3762|Washboard|XL
+000719088793|Slipper|Polyester|60,500|3204|Tunnel Washer|L
+001137108569|Blazer|Russell cord|11,700|6972|Combo Washer Dryer|M
+000430841828|Shorts|Percale|31,100|7324|Dry Cleaning|XL
+001872366685|Fedora|Airdura|51,800|7641|Washing Maching|S
+001937111185|Jacket|Seersucker|22,900|9865|Wet Cleaning|L
+001440614794|Shorts|Russell cord|7,600|6233|Wet Cleaning|XL
+001086871332|Fedora|Satin|42,200|4702|Washboard|M
+001025897373|T-shirt|Ripstop|99,500|3638|Washboard|S
+001977181420|Fedora|Zephyr|84,100|6132|Wet Cleaning|XL
+000681946077|Gloves|Tais|34,000|4447|Washboard|XL
+000232156778|Gown|Bunting|21,800|7474|Tunnel Washer|S
+001410372658|T-shirt|Ventile|13,900|6556|Dry Cleaning|XL
+001160218223|Trunks|Viyella|55,000|762|Wet Cleaning|XL
+000451184320|Coat|Tais|27,600|2237|Tunnel Washer|L
+001833960996|Hat|Coutil|19,600|8453|Tunnel Washer|M
+001001886410|Gloves|Oxford|52,300|6016|Combo Washer Dryer|XL
+001065759769|Helmet|Capilene|46,800|7166|Combo Washer Dryer|L
+000385009348|Skort|Lamé|66,700|7193|Dry Cleaning|S
+001886065508|Pajamas|Shot silk|66,500|1020|Combo Washer Dryer|M
+001432751859|Pajamas|Nylon|33,800|6115|Bleach|S
+001113100258|Coat|Nainsook|93,600|5242|Combo Washer Dryer|L
+000993995994|Sweater|Flannel|48,700|1713|Washing Maching|L
+000379514633|Trunks|Sateen|22,300|2136|Bleach|L
+001964660394|Blouse|Beta cloth|24,800|8430|Dry Cleaning|XL
+000864016243|Jumper|Canvas|56,100|6952|Tunnel Washer|XL
+001126113238|Hat|Russell cord|54,000|3750|Wet Cleaning|S
+001776497438|Overall|Gingham|33,400|6103|Combo Washer Dryer|XL
+001959623325|Skort|Madapolam|28,500|7581|Bleach|XL
+002105578314|Overall|Drugget|12,100|2964|Bleach|L
+001729542962|Apron|Rayon|81,800|8943|Bleach|XL
+001176793031|Sweater|Madapolam|7,000|6223|Dry Cleaning|L
+002028946863|Veil|Gauze|30,300|6686|Wet Cleaning|M
+001543447400|Hat|Whipcord|13,300|20|Bleach|L
+001488486293|Sweater|Whipcord|43,700|6947|Washboard|M
+000499365569|Skort|Polyester|9,400|6050|Combo Washer Dryer|M
+000505046129|Belt|Polyester|24,000|5225|Combo Washer Dryer|M
+000266228627|Boot|Scarlet|4,900|250|Washboard|XL
+001207576738|Hat|Wool|98,200|832|Bleach|S
+000548883291|Blazer|Crêpe|57,000|6920|Tunnel Washer|L
+000199940407|Trunks|Rinzu|11,000|1511|Bleach|M
+000932652588|Blazer|Nainsook|88,700|5042|Tunnel Washer|M
+000128471542|Turban|Russell cord|88,700|9711|Washboard|S
+001013628474|Sweater|Canvas|61,400|6145|Tunnel Washer|S
+001488891729|Helmet|Tweed|46,800|3310|Combo Washer Dryer|S
+000599096275|Apron|Kerseymere|93,400|9662|Dry Cleaning|M
+002127444611|Pajamas|Wool|69,600|4752|Combo Washer Dryer|L
+001372471050|Helmet|Polyester|28,800|5248|Bleach|S
+002079927362|Tuxedo|Spandex|96,000|7773|Dry Cleaning|L
+000209548327|Jersey|Twill|4,200|211|Dry Cleaning|S
+000250000335|Parka|Bombazine|98,400|9111|Washing Maching|S
+000666863620|Gown|Tucuyo|49,400|7646|Combo Washer Dryer|M
+001266992665|Gloves|Harris Tweed|57,500|9947|Washing Maching|S
+000633105665|Scarf|Rep|8,100|5508|Washing Maching|XL
+000550020636|Shirt|Fur|42,300|3742|Combo Washer Dryer|XL
+001208628229|Cap|Madapolam|27,000|5279|Tunnel Washer|XL
+001578053033|Sweater|Calico|78,600|9624|Washboard|XL
+000790222283|Shoe|Airguard|27,000|8148|Combo Washer Dryer|XL
+000365536978|Coat|Grenadine|49,900|145|Dry Cleaning|S
+000416384051|Shoe|Habutai|64,400|163|Tunnel Washer|M
+000129819709|Parka|Tweed|70,500|5798|Wet Cleaning|L
+001376760765|Hoodie|Crêpe|76,000|6943|Dry Cleaning|XL
+000186734242|Coat|Herringbone|38,300|1647|Tunnel Washer|L
+000656031598|Necktie|Duck|70,700|5633|Washboard|L
+000631888576|Scarf|Khaki drill|62,100|9283|Tunnel Washer|XL
+000624259379|Skort|Saga Nishiki|91,400|9594|Wet Cleaning|L
+001402321232|Hat|Gauze|55,600|1618|Combo Washer Dryer|S
+000309702765|Jeans|Seersucker|67,600|850|Bleach|S
+000563033277|Gown|Cordura|47,200|3849|Tunnel Washer|M
+001417823586|Shorts|Burlap|5,500|5823|Combo Washer Dryer|L
+001937745097|Blouse|Foulard|40,400|9042|Wet Cleaning|M
+000528450176|Gloves|Lawn|92,900|7930|Washing Maching|M
+001701138039|T-shirt|Cretonne|20,000|7711|Combo Washer Dryer|XL
+001418527108|Shoe|Organza|62,000|697|Dry Cleaning|S
+001336760622|Boot|Barkcloth|14,100|4716|Washboard|XL
+001083722033|Jacket|Himroo|89,500|8320|Washboard|S
+001841666066|Slipper|Cloqué|87,900|1790|Wet Cleaning|S
+001797683903|Coat|Pongee|28,400|9341|Washing Maching|XL
+000785993314|Fedora|Bombazine|70,300|188|Dry Cleaning|L
+001831830385|Gloves|Beta cloth|800|2602|Combo Washer Dryer|L
+001776827427|Pajamas|Ninon|85,300|611|Wet Cleaning|XL
+000117727026|Jumper|Ottoman|33,300|8546|Washboard|L
+001320406962|Jersey|Sateen|39,700|8319|Washboard|L
+002027532645|Tuxedo|Toile|51,600|8753|Tunnel Washer|XL
+000863753411|Hoodie|Airdura|67,000|7754|Washboard|XL
+002060547050|Helmet|Stuff|59,400|3466|Wet Cleaning|S
+001091978865|Hood|Vinyl coated polyester|63,300|5998|Tunnel Washer|S
+000950091906|Jersey|Brilliantine|98,300|1192|Washing Maching|L
+000236509858|Veil|Ripstop|68,400|6095|Bleach|M
+000771118118|Shoe|Buckram|49,500|9811|Combo Washer Dryer|M
+001290564856|Slipper|Chintz|28,900|3454|Dry Cleaning|S
+001434931870|Sweater|Percale|22,700|2254|Tunnel Washer|S
+000399231256|Pajamas|Scrim|45,500|7810|Tunnel Washer|S
+000593707225|Apron|Broadcloth|93,800|8002|Combo Washer Dryer|XL
+001273259158|Belt|Gabardine|22,100|1786|Bleach|M
+000306837113|Slipper|Habutai|14,100|5587|Washboard|L
+002021675741|Beret|C change|77,300|7062|Combo Washer Dryer|M
+001824917271|Jersey|Herringbone|96,900|5389|Washboard|S
+001021968308|Overall|Nainsook|64,300|9806|Wet Cleaning|M
+000877978820|Necktie|Char cloth|43,500|599|Washboard|XL
+001483928260|Pajamas|Osnaburg|25,300|9187|Washing Maching|M
+001094705693|Coat|Barathea|17,300|6873|Wet Cleaning|M
+001423099585|Apron|C change|51,900|4504|Washing Maching|S
+000618272380|Veil|Ultrasuede|44,400|2601|Washboard|XL
+000185920444|Boot|Cambric|71,500|6849|Washing Maching|M
+000800271329|Helmet|Batiste|2,500|3468|Washboard|L
+000696916929|Hood|Cloqué|51,200|4660|Wet Cleaning|S
+000323645122|Hoodie|Gabardine|34,000|4126|Washing Maching|XL
+000862184940|Helmet|Whipcord|600|4126|Washboard|M
+000195364557|Jersey|Kente cloth|38,700|7495|Washing Maching|M
+001915909711|Coat|Burlap|63,600|3582|Washboard|S
+001998655870|T-shirt|Dornix|3,100|9650|Combo Washer Dryer|XL
+000291573260|Jersey|Samite|700|6532|Bleach|S
+000607162804|Necktie|Ripstop|8,300|5377|Dry Cleaning|S
+000891430477|Veil|Chambray|11,700|3083|Combo Washer Dryer|L
+002096595259|Jersey|Foulard|4,300|2064|Tunnel Washer|M
+001307004875|Gloves|Rayadillo|42,000|7106|Dry Cleaning|L
+001055950036|Boot|Canvas|40,300|3181|Washboard|S
+000348923437|Jacket|Muslin|37,600|8373|Tunnel Washer|XL
+000830873752|Apron|Herringbone|2,400|495|Tunnel Washer|S
+000871671911|Helmet|Kerseymere|89,200|7230|Dry Cleaning|XL
+000216993120|Hat|Bombazine|25,600|4268|Washing Maching|L
+000797123614|Jeans|Habutai|6,300|1215|Wet Cleaning|M
+001904123738|Hat|Toile|70,000|1213|Bleach|L
+001368952760|Pajamas|Denim|90,400|5970|Dry Cleaning|S
+001396833333|Hood|Donegal tweed|14,200|6597|Bleach|L
+002141828663|Jacket|Coutil|84,100|9897|Dry Cleaning|L
+001418485241|Sweater|Zephyr|15,900|9452|Combo Washer Dryer|M
+000015853658|Shirt|Brilliantine|9,200|5456|Washing Maching|S
+001485960172|Shorts|Burlap|21,100|5252|Dry Cleaning|M
+000700845411|Overall|Rayon|50,600|2830|Tunnel Washer|S
+001665907891|Shirt|Rayon|92,100|7737|Tunnel Washer|M
+001076996882|Scarf|Aertex|38,900|6040|Tunnel Washer|L
+002122166695|Cap|Burlap|35,000|6332|Combo Washer Dryer|S
+001330384380|Parka|Nankeen|89,200|4276|Wet Cleaning|M
+000422320845|Jersey|Rayon|96,700|4470|Washing Maching|S
+000396909037|Jersey|Dowlas|6,800|2347|Washboard|M
+001748107991|Fedora|Rinzu|76,800|4744|Bleach|L
+000518503004|Hood|Canvas|72,200|4216|Tunnel Washer|M
+001076860692|Boot|Bunting|800|6810|Washboard|XL
+002063800401|Trunks|Rakematiz|71,100|633|Bleach|L
+001161671491|Coat|Linen|60,600|442|Combo Washer Dryer|L
+000453097055|Shoe|Rayadillo|17,400|6989|Washing Maching|M
+000593825256|Jersey|Kerseymere|2,700|1105|Bleach|L
+001766161097|T-shirt|Gauze|79,200|6087|Washing Maching|XL
+001263917769|Hoodie|Chiffon|77,500|3232|Bleach|L
+001054965661|Sweater|Stuff|54,600|5498|Tunnel Washer|L
+000170091017|Scarf|Beta cloth|53,900|2350|Combo Washer Dryer|S
+000287781692|Jumper|Lawn|20,500|7289|Tunnel Washer|M
+001823971702|Shoe|Tucuyo|18,500|5902|Combo Washer Dryer|L
+000095473681|T-shirt|Lamé|99,100|3299|Dry Cleaning|M
+000253092398|Scarf|Barkcloth|83,100|9518|Tunnel Washer|M
+001272703993|Blazer|Aertex|69,600|8410|Dry Cleaning|S
+000544858150|Hoodie|Russell cord|90,200|1537|Tunnel Washer|M
+001533850156|Cap|Samite|77,800|8214|Wet Cleaning|S
+000274396764|Gloves|Cordura|60,300|2767|Washboard|XL
+000492774627|Skort|Beta cloth|96,700|7654|Bleach|S
+001006468578|Jacket|Batiste|85,300|8517|Dry Cleaning|S
+000141195425|Parka|Fur|75,500|218|Tunnel Washer|XL
+000027451284|Jumper|Osnaburg|86,700|1472|Washing Maching|L
+000682273907|Gown|Rayadillo|36,500|153|Washing Maching|L
+000668042159|Jeans|Moleskin|47,600|2819|Dry Cleaning|M
+001106924767|Helmet|Tweed|65,700|1664|Tunnel Washer|XL
+001765274642|Coat|Nylon|38,900|9702|Wet Cleaning|M
+000629257898|Tuxedo|Tucuyo|37,900|3454|Combo Washer Dryer|M
+000999637026|Scarf|Oilskin|4,100|605|Bleach|L
+000012188322|Tuxedo|Silk|85,000|5757|Bleach|S
+002044252003|Jacket|Donegal tweed|49,400|1612|Wet Cleaning|S
+000114010613|Hat|Ventile|30,700|6018|Bleach|XL
+001254764359|Shoe|Irish linen|97,800|5817|Washing Maching|XL
+001443131678|Helmet|Foulard|49,000|4400|Washboard|M
+000176931813|Hat|Beta cloth|33,600|2141|Wet Cleaning|XL
+000335994393|Coat|Batiste|61,000|6758|Washboard|M
+000901472532|Sweater|Buckram|19,000|2858|Washing Maching|S
+000502071022|Shoe|Rayon|89,800|2550|Bleach|L
+000083254113|Shirt|Barkcloth|97,300|4369|Wet Cleaning|XL
+000942183878|Sandal|Chiffon|30,500|9487|Dry Cleaning|S
+000431459417|Skort|Canvas|91,600|6114|Washboard|L
+000883912818|Gown|Jamdani|77,400|9375|Wet Cleaning|S
+000269997114|Jumper|Scarlet|77,100|1275|Combo Washer Dryer|M
+000122808416|Gloves|Samite|900|8504|Combo Washer Dryer|XL
+001771316125|Scarf|Bombazine|20,200|6489|Washing Maching|M
+001065686182|Cap|Grenadine|60,700|2681|Dry Cleaning|L
+000856195654|Trunks|Buckram|38,700|8015|Dry Cleaning|S
+001838959311|Jeans|Duck|82,500|1956|Washing Maching|S
+000011125110|Coat|Voile|36,600|4310|Washing Maching|M
+001661668014|Jeans|Corduroy|4,200|6922|Dry Cleaning|XL
+000883187885|Boot|Madapolam|27,700|4103|Washing Maching|L
+001207850256|Pajamas|Ottoman|73,100|4476|Washboard|M
+000832143432|Gloves|Ottoman|23,700|1367|Dry Cleaning|S
+001804742460|Veil|Challis|90,200|3958|Washboard|XL
+000157607012|Beret|Chino|13,600|7273|Combo Washer Dryer|M
+000664228313|Cap|Brilliantine|81,000|8064|Washing Maching|XL
+002006637713|Shoe|Cedar bark|69,800|3240|Tunnel Washer|M
+000639855803|Parka|Denim|28,200|9511|Washing Maching|XL
+001153473529|Helmet|Cloqué|95,100|3062|Washing Maching|XL
+000059690415|Blouse|C change|95,000|2233|Dry Cleaning|M
+001770178040|Fedora|Grenadine|81,000|8507|Washing Maching|XL
+000827016729|Jacket|Rinzu|42,900|3271|Tunnel Washer|S
+000728762966|Blouse|Stuff|11,100|3564|Washboard|M
+000633667501|Shoe|Satin|32,900|7983|Wet Cleaning|M
+001121520291|Helmet|Harris Tweed|16,100|8387|Bleach|XL
+002111487478|Boot|Hodden|67,400|5750|Combo Washer Dryer|M
+000152385606|Jersey|Georgette|12,000|487|Washboard|M
+001731833030|Boot|Fustian|30,300|3017|Dry Cleaning|XL
+002079605419|Jacket|Scrim|58,300|5947|Bleach|S
+002105972269|Overall|Russell cord|10,200|6549|Tunnel Washer|XL
+001694592838|Turban|Gazar|25,600|4370|Bleach|XL
+000611836042|Fedora|Rinzu|78,500|1440|Bleach|L
+001992145926|Blazer|Elastic|45,800|3733|Tunnel Washer|XL
+000716616039|Trunks|Khādī|16,000|9162|Tunnel Washer|S
+001692389703|Trunks|Beta cloth|4,100|6878|Wet Cleaning|M
+000488020641|Veil|Cordura|74,800|7599|Washing Maching|S
+000675877941|Coat|Airguard|46,800|1727|Dry Cleaning|L
+000639375889|Parka|Percale|10,600|4005|Wet Cleaning|S
+001602769779|Jacket|Oilskin|74,900|9718|Wet Cleaning|M
+001319145727|Jersey|Poplin|29,000|5052|Combo Washer Dryer|M
+000071963749|Jeans|Wigan|57,200|5367|Dry Cleaning|XL
+000858829679|Parka|Bedford cord|24,600|8760|Wet Cleaning|M
+000113130489|Hat|Drill|43,100|4527|Tunnel Washer|S
+000276522412|Slipper|Duck|45,100|4072|Dry Cleaning|S
+000519528612|Jeans|Wigan|91,100|6408|Washing Maching|M
+001908906109|Shorts|Saga Nishiki|4,500|7998|Wet Cleaning|XL
+000212355282|Fedora|Oilskin|45,800|9575|Tunnel Washer|L
+000256806848|Boot|Coutil|98,100|200|Dry Cleaning|L
+001257200084|Blazer|Cedar bark|72,800|321|Washboard|M
+001600461458|Jersey|Tweed|60,600|9485|Washing Maching|M
+001879182112|Jacket|Batiste|10,000|4294|Washing Maching|S
+000607169328|Jeans|Oilskin|18,000|6475|Tunnel Washer|L
+000704354578|Sweater|Fur|96,800|5181|Combo Washer Dryer|XL
+001687596766|Jacket|Bengaline silk|82,100|8807|Tunnel Washer|M
+000430902278|Gown|Kerseymere|28,400|350|Washboard|L
+001023922748|Blazer|Lamé|26,300|5156|Dry Cleaning|M
+002025810511|Shirt|Gauze|9,400|9367|Dry Cleaning|L
+001101815050|Helmet|Toile|78,500|2137|Dry Cleaning|L
+001174176914|Shirt|Crêpe|90,000|1014|Bleach|XL
+000525928364|Apron|Dowlas|700|6721|Combo Washer Dryer|L
+000735856595|Trunks|Aertex|93,200|2898|Dry Cleaning|L
+001313073894|Fedora|Barkcloth|97,100|4599|Washing Maching|XL
+002121031676|Parka|Calico|99,900|4409|Bleach|XL
+001343763136|Necktie|Rayon|39,100|1026|Dry Cleaning|L
+001542285704|Fedora|Spandex|15,300|6183|Tunnel Washer|S
+000506362766|Gown|Dimity|62,500|6601|Combo Washer Dryer|L
+001428856582|T-shirt|Gazar|94,900|664|Tunnel Washer|M
+001130421971|Gloves|Stuff|77,800|6174|Bleach|S
+001382717567|Cap|Chintz|88,400|4203|Combo Washer Dryer|L
+001939356092|Gown|Foulard|61,800|9101|Wet Cleaning|XL
+001417882762|T-shirt|Bengaline silk|43,900|3660|Washing Maching|M
+000826010940|Scarf|Lamé|30,700|494|Bleach|M
+000277581116|Parka|Zephyr|11,100|4290|Wet Cleaning|L
+000730418598|Turban|Ultrasuede|34,600|3696|Washing Maching|S
+000800807028|Shirt|Kente cloth|42,500|8313|Bleach|S
+002053054352|Slipper|Gingham|97,100|8892|Tunnel Washer|XL
+001246004521|Turban|Dimity|60,400|4967|Bleach|S
+000238710386|Pajamas|Saye|26,900|4325|Dry Cleaning|S
+000615996764|Fedora|Polyester|76,200|9183|Washing Maching|M
+001777034643|Veil|Batiste|24,000|8751|Washing Maching|S
+000281268459|Sandal|Haircloth|8,600|18|Bleach|XL
+000817925245|Trunks|Ghalamkar|78,400|5317|Tunnel Washer|S
+001471294353|Belt|Cheesecloth|47,800|7212|Washing Maching|M
+001516746648|Sandal|Vegetable flannel|32,300|6936|Tunnel Washer|L
+000816265337|Jeans|Osnaburg|60,900|7492|Wet Cleaning|S
+001481726734|Shirt|Nainsook|5,400|866|Washboard|L
+001703423303|Jersey|Chiffon|26,000|4855|Dry Cleaning|M
+002072448318|Jumper|Russell cord|88,600|8191|Bleach|L
+002035134530|Shoe|Vinyl coated polyester|82,000|9371|Wet Cleaning|M
+000443573645|Slipper|Himroo|48,400|179|Wet Cleaning|XL
+001909709235|Hat|Ventile|9,600|6479|Washing Maching|L
+000175869898|Overall|Organdy|77,600|3794|Washing Maching|M
+000121514163|Trunks|Longcloth|91,800|158|Bleach|M
+000926082435|Jersey|Moleskin|70,100|2580|Bleach|L
+001032319054|Slipper|Ventile|96,300|7571|Washboard|M
+001082362935|Trunks|Khādī|8,500|1157|Dry Cleaning|XL
+000618520972|Skort|Seersucker|18,500|3323|Bleach|S
+001074490315|Hat|Scrim|50,200|5109|Washing Maching|S
+000690454555|Beret|Ripstop|23,800|7470|Washing Maching|S
+000443358745|Pajamas|Sateen|71,600|1590|Washboard|L
+002050955175|Pajamas|Polyester|21,700|4520|Washing Maching|XL
+000854021060|Shirt|Russell cord|4,900|3851|Washboard|XL
+000871548873|Jumper|Mackinaw|96,800|8655|Bleach|S
+001231077231|Gloves|Samite|3,700|7130|Combo Washer Dryer|M
+000969885794|Turban|Spandex|14,300|9287|Combo Washer Dryer|XL
+000874474505|Necktie|Chiffon|23,400|9369|Washboard|S
+001775468774|Hood|Wadmal|98,900|4260|Wet Cleaning|S
+001748104589|Belt|Serge|63,900|3602|Washboard|M
+000618696539|Hood|Buckram|91,400|6370|Wet Cleaning|M
+000235101430|Belt|Viyella|67,700|7455|Wet Cleaning|S
+001518403255|Jacket|Rakematiz|27,500|6918|Combo Washer Dryer|XL
+000558084896|Trunks|Grosgrain|8,400|6989|Dry Cleaning|S
+000999337080|T-shirt|Oilskin|98,300|3061|Dry Cleaning|L
+000016550676|Fedora|Osnaburg|88,200|8228|Washing Maching|L
+000095700738|Necktie|Tais|33,700|4179|Washing Maching|XL
+001452014346|Sandal|Fur|94,100|34|Washing Maching|M
+002036930767|Hoodie|Organza|71,400|3565|Dry Cleaning|S
+001990622370|Jeans|Cotton|81,500|109|Bleach|L
+000005688186|Turban|Ventile|35,500|2642|Tunnel Washer|XL
+001895104893|Jersey|Russell cord|7,600|4484|Washboard|XL
+000394635070|Shorts|Voile|21,200|7422|Tunnel Washer|L
+000666795908|Necktie|Saye|45,600|3687|Wet Cleaning|M
+001231891535|Sandal|Hodden|37,500|997|Tunnel Washer|M
+001321876958|Tuxedo|Cordura|57,500|2556|Washing Maching|S
+000708936375|Trunks|Rakematiz|99,400|2315|Dry Cleaning|L
+001001051854|Shoe|Zephyr|41,600|2414|Washing Maching|M
+001216217830|Shirt|Seersucker|11,900|1777|Wet Cleaning|M
+000781960054|Pajamas|Linen|8,300|9275|Dry Cleaning|S
+000091740455|Fedora|Broadcloth|65,800|4165|Combo Washer Dryer|M
+001007025112|Hood|Rayon|50,700|8720|Tunnel Washer|S
+000600629861|Helmet|Viyella|65,200|3941|Wet Cleaning|S
+001857352148|Necktie|Rep|22,700|5178|Tunnel Washer|XL
+001101416348|Jacket|Cotton|48,300|6743|Combo Washer Dryer|M
+002114409282|Blazer|Wigan|8,500|3039|Wet Cleaning|M
+001333595096|Boot|Wigan|16,000|7527|Tunnel Washer|S
+001321372743|Hoodie|Himroo|34,300|9375|Dry Cleaning|M
+001509010916|Jacket|Satin|54,100|2121|Tunnel Washer|M
+000761046305|Helmet|Organdy|66,000|6048|Washboard|M
+001244221101|Hood|Chiffon|69,500|2895|Washing Maching|L
+001375829915|Jeans|Organdy|68,900|5568|Dry Cleaning|M
+001946666458|Pajamas|Barathea|97,800|8366|Tunnel Washer|XL
+001662535943|Shorts|Percale|57,100|4476|Combo Washer Dryer|L
+001984825935|Blouse|Ventile|23,400|957|Tunnel Washer|S
+001309018277|Jeans|Madras|11,900|7142|Dry Cleaning|M
+001452398464|Boot|Rayon|55,800|2275|Tunnel Washer|L
+001593244914|Gloves|Tucuyo|15,100|2587|Dry Cleaning|S
+001743055283|Jumper|Cloqué|18,300|4263|Dry Cleaning|XL
+000841638802|Blouse|Rayadillo|56,900|8763|Washing Maching|M
+000787214488|Jeans|Haircloth|86,300|2036|Washboard|XL
+001898936051|Hat|Satin|74,300|4964|Bleach|M
+001628311781|Boot|Grenfell Cloth|72,300|1433|Dry Cleaning|S
+000158837544|Shoe|Percale|21,000|3025|Combo Washer Dryer|XL
+001333877903|Turban|Mackinaw|46,300|154|Washboard|M
+000589529178|Tuxedo|Kerseymere|98,800|4623|Bleach|M
+001943086644|Boot|Wigan|89,700|7483|Tunnel Washer|M
+000238207994|Helmet|Chino|96,300|4582|Washboard|L
+002082315889|Skort|Russell cord|96,700|1651|Bleach|L
+000967188220|Cap|C change|44,400|3133|Washboard|M
+002055086081|Necktie|Sateen|50,800|8768|Dry Cleaning|L
+001725528170|Tuxedo|Whipcord|23,900|2931|Bleach|S
+001735180999|Boot|Donegal tweed|68,900|9386|Dry Cleaning|XL
+001643156477|Blazer|Sateen|32,800|8869|Dry Cleaning|M
+001741875621|Scarf|Ninon|24,100|426|Washboard|S
+001307594430|Jeans|Nainsook|62,300|8766|Bleach|S
+000691315022|Sweater|Coutil|51,200|1665|Tunnel Washer|XL
+001168849361|Scarf|Crape|71,800|537|Washing Maching|L
+001652584374|Sandal|Charvet|1,700|5990|Dry Cleaning|M
+000346834131|Veil|Ventile|58,100|5659|Combo Washer Dryer|M
+000578880542|Boot|Saye|41,100|3129|Tunnel Washer|M
+001815395923|Shoe|Nainsook|53,400|2875|Dry Cleaning|L
+001946707332|Sweater|Voile|8,500|3971|Washing Maching|XL
+001090068357|Tuxedo|Denim|60,200|5894|Tunnel Washer|S
+001357788460|Jeans|Silk|80,100|1798|Combo Washer Dryer|M
+000040306786|Necktie|Lamé|66,300|6868|Bleach|L
+000722568329|Tuxedo|Chintz|78,300|5202|Washboard|L
+001683217298|Skort|Gauze|64,100|7451|Tunnel Washer|XL
+001303066597|Hood|Ripstop|6,400|788|Bleach|L
+001817790757|Hood|Kerseymere|93,700|7023|Wet Cleaning|M
+000863354184|Jumper|Cordura|76,100|3254|Washboard|S
+000683157851|Gown|Jamdani|27,300|5319|Wet Cleaning|L
+001771292673|Hoodie|Aertex|41,200|7987|Bleach|L
+000656712920|Veil|Fur|21,300|1072|Bleach|L
+000327996659|Sandal|Buckram|4,800|7690|Tunnel Washer|M
+000920581575|Hat|Gauze|52,200|2694|Wet Cleaning|L
+001628618490|Hoodie|Ripstop|63,200|3210|Bleach|XL
+000712718582|Slipper|Wadmal|18,300|2673|Washing Maching|XL
+000121722605|Parka|Chino|12,600|1196|Wet Cleaning|M
+000482725719|Beret|Georgette|8,800|4231|Combo Washer Dryer|XL
+001566625511|Pajamas|Cotton|86,400|9038|Tunnel Washer|S
+001863998913|Scarf|Crêpe|74,900|9493|Wet Cleaning|S
+001208845689|Jacket|Denim|48,200|5235|Washboard|XL
+000963632039|Blouse|Seersucker|21,700|5605|Washing Maching|M
+000481844583|Parka|Khādī|83,300|1631|Dry Cleaning|M
+000535341293|Jersey|Zorbeez|38,500|1684|Combo Washer Dryer|M
+002128421713|Gloves|Rakematiz|99,300|8522|Dry Cleaning|S
+001825228680|Cap|Fustian|93,100|5692|Tunnel Washer|L
+001032097109|Fedora|Linsey-woolsey|15,700|3624|Combo Washer Dryer|L
+001545404085|Overall|Ultrasuede|16,700|9645|Bleach|XL
+000052048242|Sweater|Cloqué|27,200|6803|Tunnel Washer|M
+000475305633|Jeans|Madapolam|48,500|2352|Dry Cleaning|S
+001641519726|Boot|Zorbeez|69,000|7187|Wet Cleaning|M
+001755162479|Shirt|Twill|99,400|8907|Tunnel Washer|M
+000301172797|Jacket|Longcloth|89,500|3293|Washing Maching|M
+000253733776|Pajamas|Mackinaw|44,400|5971|Washboard|S
+000969646883|Fedora|Twill|41,600|8293|Washboard|M
+000359535486|Gown|Ottoman|6,000|5141|Wet Cleaning|L
+000219131732|Cap|Grosgrain|58,800|9274|Wet Cleaning|M
+001262542148|Blazer|Bengaline silk|12,400|2930|Bleach|L
+000134081935|Shirt|Wadmal|62,400|1472|Wet Cleaning|S
+001386167416|T-shirt|Bunting|39,200|8537|Tunnel Washer|S
+001193155806|Overall|Rakematiz|10,700|8528|Washing Maching|XL
+000865804310|Tuxedo|Aertex|67,200|5346|Washboard|XL
+001610830009|Necktie|Barkcloth|19,000|8465|Washboard|M
+000264819787|Jersey|Eolienne|37,400|7238|Washing Maching|S
+001975043419|Blouse|Serge|88,900|1391|Bleach|M
+001763357181|Slipper|Loden|70,600|8023|Tunnel Washer|L
+001274638496|Necktie|Cordura|86,700|6914|Combo Washer Dryer|M
+001115240241|Sandal|Moleskin|74,100|6698|Bleach|XL
+000185005344|Trunks|Grenadine|33,000|1950|Washing Maching|XL
+000226591242|T-shirt|Kente cloth|15,000|4032|Wet Cleaning|XL
+000276392611|Slipper|Rinzu|86,900|5037|Bleach|M
+001463606466|Cap|Charmeuse|49,600|6471|Wet Cleaning|XL
+000169108110|Overall|Fustian|76,900|4248|Washboard|L
+001428671586|Hat|Taffeta|74,000|5242|Washing Maching|XL
+001736119275|Pajamas|Pongee|62,500|7392|Combo Washer Dryer|XL
+000255777864|Slipper|Scrim|38,200|967|Combo Washer Dryer|XL
+000464162994|Trunks|Haircloth|70,700|4068|Washing Maching|XL
+001988945831|Slipper|Cloth of gold|12,600|3308|Bleach|M
+001418257258|Fedora|Airguard|89,000|750|Washing Maching|L
+000775461158|Hat|Rinzu|10,900|8325|Combo Washer Dryer|XL
+000094588954|Cap|Seersucker|27,500|25|Washboard|XL
+000615000728|Boot|Cheesecloth|50,700|2267|Wet Cleaning|L
+001168536263|Sandal|Tweed|46,700|9357|Combo Washer Dryer|M
+002013891412|Coat|Rakematiz|55,700|7393|Washing Maching|L
+001874901900|Hat|Batiste|50,700|5273|Washing Maching|S
+000137627765|Sandal|Linen|35,100|7234|Washing Maching|M
+000585411706|Jumper|Irish linen|48,300|2326|Bleach|XL
+001711108515|Fedora|Ripstop|79,600|8772|Combo Washer Dryer|S
+000321995731|Helmet|Silk|47,000|8745|Washing Maching|L
+001134896361|Necktie|Denim|15,200|6749|Washboard|M
+000819834630|Coat|Tucuyo|34,200|5156|Tunnel Washer|L
+000666162845|Apron|Viyella|65,500|1840|Combo Washer Dryer|M
+000126297275|Parka|Airdura|53,900|4741|Wet Cleaning|L
+001578878438|Blouse|Loden|60,800|6766|Tunnel Washer|S
+000987226281|Blazer|Beta cloth|45,700|9177|Washboard|L
+001558883546|Belt|Chintz|39,600|94|Tunnel Washer|XL
+001611594973|Shoe|Flannel|98,700|1195|Washboard|L
+001049007616|Blouse|Cotton|57,100|5478|Washboard|M
+001895640255|Apron|Grenfell Cloth|22,200|8237|Washing Maching|S
+001259121591|Blazer|Gauze|12,200|9652|Dry Cleaning|L
+000454498990|Gloves|Ninon|58,800|9048|Dry Cleaning|XL
+000774541473|Parka|Flannel|11,800|8231|Washing Maching|XL
+002128283985|Shorts|Chiffon|33,400|3496|Washboard|XL
+000047176642|Coat|Oilskin|72,100|6272|Combo Washer Dryer|XL
+000262060758|T-shirt|Airguard|86,200|7424|Wet Cleaning|M
+001257236786|T-shirt|Burlap|48,500|3588|Combo Washer Dryer|XL
+000979113658|Necktie|Scrim|38,600|4503|Tunnel Washer|XL
+001134732078|Jersey|Buckram|21,600|9835|Tunnel Washer|S
+001877936476|Scarf|Habutai|28,600|7381|Dry Cleaning|L
+001237898640|Hood|Madapolam|91,300|4250|Tunnel Washer|S
+001970302890|Belt|Elastic|30,200|9588|Tunnel Washer|L
+001722085028|Jeans|Harris Tweed|27,000|3100|Dry Cleaning|XL
+001957236879|Shirt|Gingham|86,700|1322|Washboard|S
+000807677286|Necktie|Madras|1,100|1332|Washboard|S
+001975699800|Sweater|Madras|600|8634|Washboard|M
+000916223853|Scarf|Zorbeez|16,100|3598|Wet Cleaning|L
+001351070789|Hoodie|Shot silk|67,200|8720|Washboard|XL
+000211614758|Tuxedo|Fur|48,700|190|Dry Cleaning|M
+001372349457|T-shirt|Denim|72,700|6071|Wet Cleaning|M
+000800923902|Helmet|Percale|29,100|6174|Dry Cleaning|L
+001898201850|Sweater|Rayon|12,100|5391|Tunnel Washer|M
+000275509112|Sweater|Khaki drill|74,800|878|Dry Cleaning|XL
+000358414817|Blouse|Dazzle|12,900|6572|Washboard|S
+000133144224|Boot|Longcloth|85,700|4630|Tunnel Washer|S
+000238575538|Helmet|Moleskin|22,200|2613|Wet Cleaning|M
+001033926658|Blazer|Chiffon|30,600|1851|Washing Maching|L
+001040885530|Necktie|Cordura|93,300|9316|Combo Washer Dryer|M
+001742312604|Pajamas|Silk|74,200|9243|Washboard|XL
+000205178553|Shirt|Char cloth|45,300|7518|Tunnel Washer|M
+001675806820|Beret|Irish linen|84,300|1142|Washboard|L
+001961796886|Blouse|Taffeta|45,300|2789|Washing Maching|XL
+001685309242|Turban|Canvas|15,700|6172|Bleach|M
+000045930859|Fedora|Drill|25,800|2201|Bleach|L
+001778761013|Shirt|Linsey-woolsey|71,100|2997|Combo Washer Dryer|XL
+000672700126|T-shirt|Flannel|31,500|968|Washboard|M
+000780224468|Fedora|Crêpe|69,800|6368|Washboard|M
+001845543014|Jersey|Linen|13,100|8096|Combo Washer Dryer|L
+000630214791|Belt|Rinzu|77,800|7565|Dry Cleaning|M
+000471733134|Slipper|Linsey-woolsey|17,100|3215|Combo Washer Dryer|XL
+000660046852|Fedora|Taffeta|24,700|9786|Combo Washer Dryer|L
+000212587906|Sweater|Charvet|11,300|7234|Washboard|XL
+000386983794|Boot|Cretonne|50,200|1377|Tunnel Washer|S
+001112652639|Jeans|Haircloth|31,800|8624|Tunnel Washer|M
+001447406525|T-shirt|Stuff|34,800|3526|Washboard|XL
+001186407897|Veil|Bunting|83,900|1090|Combo Washer Dryer|L
+001010308224|Blazer|Airguard|83,000|4055|Bleach|L
+001414077481|Trunks|Madapolam|34,400|3660|Dry Cleaning|S
+001148849279|Pajamas|Voile|58,300|8628|Wet Cleaning|S
+000654944336|Coat|Percale|59,200|2765|Bleach|S
+001764816712|Jersey|Gauze|32,800|3688|Wet Cleaning|M
+001580485190|Sandal|Linen|91,900|5821|Tunnel Washer|L
+001603365540|Pajamas|Rayadillo|16,100|8140|Washing Maching|M
+000101321648|Apron|Polyester|47,600|8689|Washing Maching|XL
+001335677305|Jumper|Jamdani|37,400|9589|Dry Cleaning|S
+000732216837|Hoodie|Ripstop|60,300|9739|Wet Cleaning|L
+001195238431|Fedora|Habutai|9,600|8643|Bleach|XL
+000367288890|Apron|Vinyl coated polyester|9,200|7093|Washboard|S
+001290857142|Sandal|Twill|13,200|9024|Tunnel Washer|M
+000643254323|Beret|Organza|700|4390|Washboard|S
+002146591051|Boot|Rayon|87,200|3625|Wet Cleaning|L
+001562046487|Pajamas|Brilliantine|68,500|723|Washboard|M
+000090204560|Skort|Organza|200|7317|Washboard|M
+001441931344|Pajamas|Rep|11,000|8531|Wet Cleaning|XL
+000090399958|Scarf|Sateen|13,500|4511|Dry Cleaning|S
+000445353273|Scarf|Ultrasuede|36,300|1594|Washing Maching|M
+001000157167|Pajamas|Wadmal|31,700|433|Combo Washer Dryer|S
+000541460680|T-shirt|Rayon|84,000|2179|Washboard|L
+000795835033|Hat|Gabardine|9,900|6173|Combo Washer Dryer|S
+000751180156|Hoodie|Donegal tweed|60,700|9936|Washboard|M
+001309899788|Blazer|Char cloth|64,600|5197|Tunnel Washer|S
+001134770418|Gloves|Chambray|53,100|341|Combo Washer Dryer|XL
+000182344734|Veil|Linsey-woolsey|50,800|705|Dry Cleaning|XL
+000625405640|Coat|Kente cloth|7,600|1219|Combo Washer Dryer|L
+000846892805|Hood|Elastic|95,200|8145|Washing Maching|M
+000271924238|Hat|Tucuyo|70,500|9442|Washboard|M
+000467283333|Turban|Harris Tweed|51,700|5661|Washing Maching|L
+000510815737|T-shirt|Cloth of gold|24,200|633|Combo Washer Dryer|L
+000162432931|Fedora|Kente cloth|86,000|63|Washboard|L
+001079346420|Jumper|Cordura|26,100|6555|Washboard|XL
+001215444865|Shoe|Oxford|89,000|2723|Washboard|S
+000462130344|Coat|Crape|58,000|1108|Washboard|S
+000481942587|Necktie|Bunting|69,900|8397|Bleach|S
+002040542073|Necktie|Bunting|52,600|6642|Tunnel Washer|L
+000036068566|Slipper|Dowlas|30,900|9478|Wet Cleaning|M
+000852538801|Boot|Satin|95,100|6665|Washing Maching|L
+002115837409|Blazer|Gingham|87,100|5594|Combo Washer Dryer|L
+001993722657|Necktie|Brilliantine|97,900|1345|Tunnel Washer|XL
+002044738975|Gown|Organdy|63,100|3458|Washboard|S
+002087158651|Hat|Grosgrain|90,600|5820|Tunnel Washer|XL
+000763886964|Parka|Voile|79,700|3660|Tunnel Washer|S
+001330993196|Gown|Voile|81,900|5339|Washing Maching|L
+000672307051|Slipper|Haircloth|11,200|1303|Dry Cleaning|XL
+001131863696|Sandal|Brilliantine|42,200|6566|Dry Cleaning|S
+001351257121|Shirt|Kente cloth|60,400|8898|Dry Cleaning|M
+000377029055|Slipper|Zorbeez|29,500|1160|Bleach|L
+000636188826|Shorts|Ventile|70,400|4594|Washboard|XL
+000706667737|Pajamas|Gingham|90,600|6081|Washing Maching|XL
+001007341647|Belt|Ultrasuede|58,600|2753|Dry Cleaning|M
+000890809831|Boot|Tais|18,000|3437|Washboard|S
+000512982159|Hood|Bombazine|55,200|336|Wet Cleaning|M
+001377773351|Sweater|Challis|13,900|4237|Wet Cleaning|M
+000816155212|Turban|Bengaline silk|19,800|6441|Dry Cleaning|L
