@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\utils">
+      <UniqueIdentifier>{54df4936-b43b-4b27-a7ff-4a7a48d82cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\utils">
+      <UniqueIdentifier>{96125b74-6f87-4b23-8f6f-dcd3e9fcfe79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\structure">
+      <UniqueIdentifier>{267226f4-78d3-47a0-acd9-b74713cca50b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\structure">
+      <UniqueIdentifier>{7c032a83-1bf4-49f2-900d-4683930fd915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\testutils">
+      <UniqueIdentifier>{95c90cfa-0095-4a46-b159-4cb9f80184ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\testutils">
+      <UniqueIdentifier>{e897b7aa-60ed-47fe-aa9a-9ee676191754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\shoppingutils">
+      <UniqueIdentifier>{36679111-beef-41c8-8f11-a9db72533201}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\buffile.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\delim.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\iobuffer.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\varlen.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="structure\member.cpp">
+      <Filter>소스 파일\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure\purchase.cpp">
+      <Filter>소스 파일\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure\stock.cpp">
+      <Filter>소스 파일\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="testutils\shoptest.cpp">
+      <Filter>소스 파일\testutils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utils\buffile.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\delim.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\iobuffer.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\recfile.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\varlen.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="structure\member.h">
+      <Filter>헤더 파일\structure</Filter>
+    </ClInclude>
+    <ClInclude Include="structure\purchase.h">
+      <Filter>헤더 파일\structure</Filter>
+    </ClInclude>
+    <ClInclude Include="structure\stock.h">
+      <Filter>헤더 파일\structure</Filter>
+    </ClInclude>
+    <ClInclude Include="testutils\strings.h">
+      <Filter>헤더 파일\testutils</Filter>
+    </ClInclude>
+    <ClInclude Include="testutils\shoptest.h">
+      <Filter>헤더 파일\testutils</Filter>
+    </ClInclude>
+    <ClInclude Include="structure\dataset.h">
+      <Filter>헤더 파일\structure</Filter>
+    </ClInclude>
+    <ClInclude Include="testutils\packtest.h">
+      <Filter>헤더 파일\testutils</Filter>
+    </ClInclude>
+    <ClInclude Include="testutils\showtest.h">
+      <Filter>헤더 파일\testutils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\rwdata.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="shoppingutils\search.h">
+      <Filter>헤더 파일\shoppingutils</Filter>
+    </ClInclude>
+    <ClInclude Include="shoppingutils\delete.h">
+      <Filter>헤더 파일\shoppingutils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\strings.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="shoppingutils\modify.h">
+      <Filter>헤더 파일\shoppingutils</Filter>
+    </ClInclude>
+    <ClInclude Include="shoppingutils\insert.h">
+      <Filter>헤더 파일\shoppingutils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fileOfMember.dat">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="fileOfPurchase.dat">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="fileOfStock.dat">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="listOfPurchase.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="listOfStock.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="listOfMember.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
