@@ -18,6 +18,7 @@ class Stock{
 		short stock;
 		string wash;
 		string size;
+		string key;
 
 	public:
 		// Constructor
@@ -55,6 +56,7 @@ class Stock{
 		bool Pack(IOBuffer & Buffer, int EraseOption = 0) const;
 		bool Unpack(IOBuffer &);
 		bool isEmpty(void) const { return string(id).empty(); }
+		char* Key();
 
 		// Operator overloading
 		Stock& operator=(const Stock &operand);

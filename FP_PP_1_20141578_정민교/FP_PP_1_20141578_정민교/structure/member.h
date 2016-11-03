@@ -15,6 +15,7 @@ class Member{
 		string addr;
 		int birth;
 		string email;
+		string key;
 	public:
 		// Constructor
 		Member() {}
@@ -46,6 +47,7 @@ class Member{
 		bool Pack(IOBuffer & Buffer, int EraseOption = 0) const;
 		bool Unpack(IOBuffer &);
 		bool isEmpty(void) const { return id.empty(); }
+		char* Key();
 
 		// Operator overloading
 		Member& operator=(const Member &operand);

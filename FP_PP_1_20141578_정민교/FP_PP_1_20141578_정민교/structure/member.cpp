@@ -136,3 +136,8 @@ bool Member::Unpack(IOBuffer& Buffer) {
 
 	return true;
 }
+
+char* Member::Key() {
+	key.assign(id);
+	return (char*)key.c_str();
+}

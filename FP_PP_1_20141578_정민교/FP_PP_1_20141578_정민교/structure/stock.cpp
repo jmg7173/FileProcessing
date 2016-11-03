@@ -163,3 +163,8 @@ bool Stock::Unpack(IOBuffer& Buffer) {
 
 	return true;
 }
+
+char* Stock::Key() {
+	key.assign(id, LEN_STOCKID);
+	return (char*)key.c_str();
+}
