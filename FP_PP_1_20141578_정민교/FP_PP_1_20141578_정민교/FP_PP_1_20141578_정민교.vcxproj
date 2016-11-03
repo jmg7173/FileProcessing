@@ -149,7 +149,12 @@
     <ClCompile Include="testutils\shoptest.cpp" />
     <ClCompile Include="utils\buffile.cpp" />
     <ClCompile Include="utils\delim.cpp" />
+    <ClCompile Include="utils\fixfld.cpp" />
+    <ClCompile Include="utils\fixlen.cpp" />
     <ClCompile Include="utils\iobuffer.cpp" />
+    <ClCompile Include="utils\length.cpp" />
+    <ClCompile Include="utils\textind.cpp" />
+    <ClCompile Include="utils\tindbuff.cpp" />
     <ClCompile Include="utils\varlen.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -169,10 +174,16 @@
     <ClInclude Include="testutils\strings.h" />
     <ClInclude Include="utils\buffile.h" />
     <ClInclude Include="utils\delim.h" />
+    <ClInclude Include="utils\fixfld.h" />
+    <ClInclude Include="utils\fixlen.h" />
+    <ClInclude Include="utils\indfile.h" />
     <ClInclude Include="utils\iobuffer.h" />
+    <ClInclude Include="utils\length.h" />
     <ClInclude Include="utils\rwdata.h" />
     <ClInclude Include="utils\recfile.h" />
     <ClInclude Include="utils\strings.h" />
+    <ClInclude Include="utils\textind.h" />
+    <ClInclude Include="utils\tindbuff.h" />
     <ClInclude Include="utils\varlen.h" />
   </ItemGroup>
   <ItemGroup>

@@ -63,6 +63,21 @@
     <ClCompile Include="testutils\shoptest.cpp">
       <Filter>소스 파일\testutils</Filter>
     </ClCompile>
+    <ClCompile Include="utils\fixfld.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\fixlen.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\textind.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\tindbuff.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\length.cpp">
+      <Filter>소스 파일\utils</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils\buffile.h">
@@ -121,6 +136,24 @@
     </ClInclude>
     <ClInclude Include="shoppingutils\insert.h">
       <Filter>헤더 파일\shoppingutils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\fixfld.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\fixlen.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\indfile.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\textind.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\tindbuff.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\length.h">
+      <Filter>헤더 파일\utils</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
