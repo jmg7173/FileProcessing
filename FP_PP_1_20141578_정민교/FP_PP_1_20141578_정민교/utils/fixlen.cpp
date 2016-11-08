@@ -1,8 +1,7 @@
 // fixlen.cc
 
 #include "fixlen.h"
-#include "length.h"
-#include <string.h>
+#include <string>
 
 //class FixedLengthBuffer
 
@@ -26,7 +25,7 @@ void FixedLengthBuffer :: Clear ()
 int FixedLengthBuffer :: Read (istream & stream)
 // write the number of bytes in the buffer field definitions
 {
-	int recaddr = stream . tellg (); stream.clear();
+	int recaddr = (int)stream . tellg (); stream.clear();
 	Clear ();
 	Packing = FALSE;
 	stream . read (Buffer, BufferSize);
@@ -39,14 +38,15 @@ int FixedLengthBuffer :: Write (ostream & stream) const
 // read the number of bytes in the buffer field definitions
 // return the location of the record in the file
 {
-	int recaddr = stream . tellp ();
+	int recaddr = (int)stream . tellp ();
 	stream . write (Buffer, BufferSize);
 	if (! stream . good ()) return -1;
 	return recaddr;
 }
 
 static const char * headerStr = "Fixed";
-static const int headerStrSize = strlen (headerStr);
+//static const int headerStrSize = strlen (headerStr);
+static const int headerStrSize = 5;
 
 int FixedLengthBuffer :: ReadHeader (istream & stream)
 // read the header and check for consistency
@@ -69,7 +69,7 @@ int FixedLengthBuffer :: ReadHeader (istream & stream)
 	}
 	// else initialize the buffer from the header
 	ChangeRecordSize (recordSize);
-	return stream.tellg();
+	return (int)stream.tellg();
 }
 
 int FixedLengthBuffer :: WriteHeader (ostream & stream) const
@@ -90,7 +90,7 @@ int FixedLengthBuffer :: WriteHeader (ostream & stream) const
 	// write the record size
 	stream . write ((char *)&BufferSize, sizeof(BufferSize));
 	if (!stream . good ()) return -1;
-	return stream . tellp ();
+	return (int)stream . tellp ();
 }
 
 void FixedLengthBuffer :: Print (ostream & stream) const

@@ -1,7 +1,7 @@
 //textind.cc
 #include "textind.h"
 #include <iostream>
-#include <string.h>
+#include <string>
 
 TextIndex:: TextIndex (int maxKeys, int unique)
 	: NumKeys (0), Keys(0), RecAddrs(0)
@@ -61,7 +61,7 @@ int TextIndex :: Find (const char * key) const
 {
 	for (int i = 0; i < NumKeys; i++)
 		if (strcmp(Keys[i], key)==0) return i;// key found
-		else if (strcmp(Keys[i], key)>0) return -1;// not found
+//		else if (strcmp(Keys[i], key)>0) return -1;// not found
 	return -1;// not found
 }
 

@@ -69,13 +69,10 @@
     <ClCompile Include="utils\fixlen.cpp">
       <Filter>소스 파일\utils</Filter>
     </ClCompile>
-    <ClCompile Include="utils\textind.cpp">
-      <Filter>소스 파일\utils</Filter>
-    </ClCompile>
     <ClCompile Include="utils\tindbuff.cpp">
       <Filter>소스 파일\utils</Filter>
     </ClCompile>
-    <ClCompile Include="utils\length.cpp">
+    <ClCompile Include="utils\textind.cpp">
       <Filter>소스 파일\utils</Filter>
     </ClCompile>
   </ItemGroup>
@@ -150,9 +147,6 @@
       <Filter>헤더 파일\utils</Filter>
     </ClInclude>
     <ClInclude Include="utils\tindbuff.h">
-      <Filter>헤더 파일\utils</Filter>
-    </ClInclude>
-    <ClInclude Include="utils\length.h">
       <Filter>헤더 파일\utils</Filter>
     </ClInclude>
   </ItemGroup>

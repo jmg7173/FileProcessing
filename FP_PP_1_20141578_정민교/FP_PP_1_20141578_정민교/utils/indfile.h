@@ -1,7 +1,7 @@
 #include "recfile.h"
 #include "tindbuff.h"
-#include <strstream>
-#include <string.h>
+#include <sstream>
+#include <string>
 // template class to support direct read and write of records
 // The template parameter RecType must support the following
 //	int Pack (BufferType &); pack record into buffer
@@ -9,12 +9,11 @@
 
 template <class RecType>
 class TextIndexedFile
-{
-public:
+{public:
 	int Read (RecType & record); // read next record
 	int Read (char * key, RecType & record); // read by key
-	int Append (const RecType & record);
-	int Update (char * oldKey, const RecType & record);
+	int Append (RecType & record);
+	int Update (char * oldKey, RecType & record);
 	int Create (char * name, int mode=ios::in|ios::out);
 	int Open (char * name, int mode=ios::in|ios::out);
 	int Close ();
@@ -34,7 +33,7 @@ protected:
 // template method bodies
 template <class RecType>
 int TextIndexedFile<RecType>::Read (RecType & record)
-{	return result = DataFile . Read (record, -1);}
+{	return DataFile . Read (record, -1); }
 
 template <class RecType>
 int TextIndexedFile<RecType>::Read (char * key, RecType & record)
@@ -46,20 +45,20 @@ int TextIndexedFile<RecType>::Read (char * key, RecType & record)
 }
 
 template <class RecType>
-int TextIndexedFile<RecType>::Append (const RecType & record)
+int TextIndexedFile<RecType>::Append (RecType & record)
 {
 	char * key = record.Key();
 	int ref = Index.Search(key);
 	if (ref != -1) // key already in file
 		return -1;
 	ref = DataFile . Append(record);
-	int result = Index . Insert (key, ref);
+	int result = Index . Insert (record.Key (), ref);
 	return ref;
 }
 
 template <class RecType>
 int TextIndexedFile<RecType>::Update 
-	(char * oldKey, const RecType & record)
+	(char * oldKey, RecType & record)
 // Update is left as an exercise. 
 //	It requires BufferFile::Update, and BufferFile::Delete
 {	return -1;}
@@ -75,11 +74,11 @@ int TextIndexedFile<RecType>::SetFileName(char * fileName,
 	// set FileName member
 	FileName = strdup(fileName);
 	// generate real file names
-	ostrstream dataName, indexName;
+	ostringstream dataName, indexName;
 	dataName << FileName <<".dat"<<ends;
 	indexName<< FileName<<".ind"<<ends;
-	dataFileName = strdup(dataName . str());
-	indexFileName = strdup(indexName . str());
+	dataFileName = strdup(dataName . str().c_str ());
+	indexFileName = strdup(indexName . str().c_str ());
 	return 1;
 }
 
@@ -90,7 +89,7 @@ int TextIndexedFile<RecType>::Create (char * fileName, int mode)
 	int result;
 	char * dataFileName, * indexFileName;
 	result = SetFileName (fileName, dataFileName, indexFileName);
-cout <<"file names "<<dataFileName<<" "<<indexFileName<<endl;
+//	cout <<"file names "<<dataFileName<<" "<<indexFileName<<endl;
 	if (result == -1) return 0;
 	result = DataFile.Create (dataFileName, mode);
 	if (!result)
@@ -122,7 +121,7 @@ int TextIndexedFile<RecType>::Open (char * fileName, int mode)
 		FileName = 0; // remove connection
 		return 0;
 	}
-	result = IndexFile.Open (indexFileName, ios::out);
+	result = IndexFile.Open (indexFileName, mode);
 	if (!result)
 	{
 		DataFile . Close(); // close the data file
@@ -151,7 +150,7 @@ int TextIndexedFile<RecType>::Close ()
 	IndexFile . Rewind();
 	IndexBuffer.Pack (Index);
 	result = IndexFile . Write ();
-	cout <<"result of index write: "<<result<<endl;
+//	cout <<"result of index write: "<<result<<endl;
 	IndexFile . Close ();
 	FileName = 0;
 	return 1;

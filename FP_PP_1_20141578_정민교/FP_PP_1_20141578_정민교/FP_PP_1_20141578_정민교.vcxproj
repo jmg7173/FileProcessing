@@ -152,7 +152,6 @@
     <ClCompile Include="utils\fixfld.cpp" />
     <ClCompile Include="utils\fixlen.cpp" />
     <ClCompile Include="utils\iobuffer.cpp" />
-    <ClCompile Include="utils\length.cpp" />
     <ClCompile Include="utils\textind.cpp" />
     <ClCompile Include="utils\tindbuff.cpp" />
     <ClCompile Include="utils\varlen.cpp" />
@@ -178,7 +177,6 @@
     <ClInclude Include="utils\fixlen.h" />
     <ClInclude Include="utils\indfile.h" />
     <ClInclude Include="utils\iobuffer.h" />
-    <ClInclude Include="utils\length.h" />
     <ClInclude Include="utils\rwdata.h" />
     <ClInclude Include="utils\recfile.h" />
     <ClInclude Include="utils\strings.h" />

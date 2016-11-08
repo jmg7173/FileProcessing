@@ -1,8 +1,7 @@
 // fixlen.cc
 
 #include "fixfld.h"
-#include "length.h"
-#include <string.h>
+#include <string>
 
 //class FixedFieldBuffer
 
@@ -71,7 +70,8 @@ int FixedFieldBuffer :: AddField (int fieldSize)
 
 
 static const char * headerStr = "Field";
-static const int headerStrSize = strlen (headerStr);
+//static const int headerStrSize = strlen (headerStr);
+static const int headerStrSize = 5;
 
 int FixedFieldBuffer :: ReadHeader (istream & stream)
 // read the header and check for consistency
@@ -101,11 +101,11 @@ int FixedFieldBuffer :: ReadHeader (istream & stream)
 		if (numFields != NumFields) return -1;
 		for (int j = 0; j < numFields; j ++)
 			if (fieldSize[j] != FieldSize[j]) return -1;
-		return stream . tellg (); // everything matches
+		return (int)stream . tellg (); // everything matches
 	}
 	// else initialize the buffer from the header
 	Init (numFields, fieldSize);
-	return stream.tellg();
+	return (int)stream.tellg();
 }
 
 int FixedFieldBuffer :: WriteHeader (ostream & stream) const
@@ -136,7 +136,7 @@ int FixedFieldBuffer :: WriteHeader (ostream & stream) const
 		stream . write ((char*)&FieldSize[i], sizeof(FieldSize[i]));
 	}
 	if (!stream) return -1;
-	return stream . tellp ();
+	return (int)stream . tellp ();
 }
 
 int FixedFieldBuffer :: Pack (const void * field, int size)

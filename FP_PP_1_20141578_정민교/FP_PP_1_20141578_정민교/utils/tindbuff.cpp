@@ -47,8 +47,9 @@ int TextIndexBuffer::Unpack
 	result = FixedFieldBuffer::Unpack (&index.NumKeys);
 	for (int i = 0; i < index.NumKeys; i++)
 	{// note only pack the actual keys and recaddrs
-		index.Keys[i] = new char[KeySize]; // just to be safe
+		index.Keys[i] = new char[KeySize + 1]; // just to be safe
 		result = result && FixedFieldBuffer::Unpack (index.Keys[i]);
+		index.Keys[i][KeySize] = '\0';
 		result = result && FixedFieldBuffer::Unpack (&index.RecAddrs[i]);
 	}
 	for (int j = 0; j<index.MaxKeys-index.NumKeys; j++)
