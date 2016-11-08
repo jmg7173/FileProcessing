@@ -7,6 +7,7 @@
 #include <iostream>
 #include <stdlib.h>
 
+#include "testutils/modetest.h"
 #include "testutils/packtest.h"
 #include "testutils/shoptest.h"
 #include "testutils/showtest.h"
@@ -17,7 +18,62 @@ using namespace std;
 
 int main () {
 	int selectNum;
+	int modeflag = 0;
+	string id;
+	// Login
+	while (true) {
+		string pw;
+		cout << "================================================" << endl;
+		cout << "        Purchase System" << endl;
+		cout << "ID : ";
+		cin >> id;
+		cin.get();
+		cout << "PW : ";
+		cin >> pw;
+		cin.get();
+		if (id == "admin") {
+			if (pw == "adminpass") {
+				modeflag = ADMIN;
+				cout << "Logged in successfully! Press Enter.";
+				cin.get();
+				system("cls");
+				break;
+			}
+			else {
+				cout << "Invalid User info. Press Enter.";
+				cin.get();
+				system("cls");
+			}
+		}
+		else if (id == "TestUser") {
+			if (pw == "T1234") {
+				modeflag = USER;
+				cout << "Logged in successfully! Press Enter.";
+				cin.get();
+				system("cls");
+				break;
+			}
+			else {
+				cout << "Invalid User info. Press Enter.";
+				cin.get();
+				system("cls");
+			}
+		}
+		else {
+			cout << "Invalid User info. Press Enter.";
+			cin.get();
+			system("cls");
+		}
+	}
 
+	/*
+	switch(modeflag){
+	case ADMIN:
+	modeManager();
+	case USER:
+	modeUser(id);
+	}
+	*/
 	while (true) {
 		cout << intro;
 		cout << ">> ";

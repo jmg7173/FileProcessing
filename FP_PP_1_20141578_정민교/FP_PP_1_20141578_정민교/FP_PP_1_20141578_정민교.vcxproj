@@ -167,6 +167,7 @@
     <ClInclude Include="structure\member.h" />
     <ClInclude Include="structure\purchase.h" />
     <ClInclude Include="structure\stock.h" />
+    <ClInclude Include="testutils\modetest.h" />
     <ClInclude Include="testutils\showtest.h" />
     <ClInclude Include="testutils\shoptest.h" />
     <ClInclude Include="testutils\packtest.h" />

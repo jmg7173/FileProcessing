@@ -16,6 +16,7 @@ class Member{
 		int birth;
 		string email;
 		string key;
+		int level;
 	public:
 		// Constructor
 		Member() {}
@@ -25,7 +26,8 @@ class Member{
 				string ph, 
 				string addr, 
 				int birth, 
-				string email
+				string email,
+				int level = 2
 				);
 		
 		//Getter
