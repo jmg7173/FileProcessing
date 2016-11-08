@@ -149,6 +149,9 @@
     <ClInclude Include="utils\tindbuff.h">
       <Filter>헤더 파일\utils</Filter>
     </ClInclude>
+    <ClInclude Include="testutils\modetest.h">
+      <Filter>헤더 파일\testutils</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="fileOfMember.dat">

@@ -9,14 +9,16 @@ Member::Member(
 				string ph, 
 				string addr, 
 				int birth, 
-				string email
+				string email,
+				int level
 				) 
 	:	id(id),
 		name(name),
 		ph(ph),
 		addr(addr),
 		birth(birth),
-		email(email)
+		email(email),
+		level(level)
 {}
 
 Member& Member::operator=(const Member &operand){
