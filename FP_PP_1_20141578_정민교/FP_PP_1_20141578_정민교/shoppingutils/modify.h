@@ -1,7 +1,9 @@
 #ifndef MODIFY_H_
 #define MODIFY_H_
 
+#include <sstream>
 #include "../structure/dataset.h"
+#include "modify.h"
 
 extern vector< pair<int, int> > Deleted_Member;
 extern vector< pair<int, int> > Deleted_Stock;
@@ -21,7 +23,18 @@ extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
  * If Every ID changes, check if it is in use.
  */
 
+// TODO
+bool ModifyMember();
+bool ModifyMemberData(string prevID, int recaddr);
+bool ModifyStock();
+bool ModifyPurchase();
 bool PurModifyData(Purchase newP, Purchase prevP);
+/*bool ModifyMemberID();
+bool ModifyMemberName();
+bool ModifyMemberPH();
+bool ModifyMemberAddr();
+bool ModifyMemberBirth();
+bool ModifyMemberEmail();*/
 
 bool ModifyMember() {
 	string prevID;
@@ -38,7 +51,8 @@ bool ModifyMember() {
 	}
 
 	else {
-		Member prevM = readSpecificDat<Member>(datFileMem, recaddr);
+		return ModifyMemberData(prevID, recaddr);
+		/*Member prevM = readSpecificDat<Member>(datFileMem, recaddr);
 		Member newM = prevM;
 		cout << "Modify this record." << endl;
 		cout << prevM << endl;
@@ -135,7 +149,7 @@ bool ModifyMember() {
 		}
 		int bufSize = buffer.PackedLength();
 		int totalSize = prevInfo.second;
-		
+
 		if (newM.getID() != prevM.getID()) {
 			// update info to Purchase
 			vector<pair<int, int> > addrs = SearchFromMapAll(Map_Purchase_MID, prevM.getID());
@@ -151,7 +165,7 @@ bool ModifyMember() {
 			}
 			Map_Member.erase(prevM.getID());
 		}
-		
+
 		if (bufSize <= prevInfo.second) {
 			writeSpecificDat<Member>(datFileMem, newM, recaddr, totalSize - bufSize);
 		}
@@ -183,12 +197,163 @@ bool ModifyMember() {
 		}
 		Map_Member[newM.getID()] = make_pair(recaddr, totalSize);
 		cout << "Press any key to return Shopping menu.";
-		cin.get();
-		return true;
+		cin.get();*/
+		
 	}
 }
 
-bool ModifyStock() {	
+bool ModifyMemberData(string prevID, int recaddr) {
+	pair<int, int> prevInfo = SearchFromMap<Member>(Map_Member, prevID);
+	Member prevM = readSpecificDat<Member>(datFileMem, recaddr);
+	Member newM = prevM;
+	cout << "Modify this record." << endl;
+	cout << prevM << endl;
+	cout << "Press enter." << endl;
+	cin.get();
+
+	int selectNum;
+	string id, name, ph, addr, email;
+	int birth;
+
+	cout << ModifyMemberMenu << ">> ";
+	cin >> selectNum;
+	cin.get();
+	switch (selectNum) {
+	case 1: {// ID
+		cout << "Input ID >> ";
+		getline(cin, id);
+		pair<int, int> ptmp = SearchFromMap<Member>(Map_Member, id);
+		if (ptmp.first != -1) {
+			cout << "Already exist ID" << endl;
+			cout << "Press any key to return Shopping menu.";
+			cin.get();
+			return false;
+		}
+		newM.setID(id);
+		break;
+	}
+	case 2: // Name
+		cout << "Input name >> ";
+		getline(cin, name);
+		if (name.empty()) {
+			cout << "Empty input!" << endl;
+			cout << "Press any key to return Shopping menu.";
+			cin.get();
+			return false;
+		}
+		newM.setName(name);
+		break;
+	case 3: // P.H.
+		cout << "Input P.H. >> ";
+		getline(cin, ph);
+		if (ph.empty()) {
+			cout << "Empty input!" << endl;
+			cout << "Press any key to return Shopping menu.";
+			cin.get();
+			return false;
+		}
+		newM.setPH(ph);
+		break;
+	case 4: // Addr
+		cout << "Input addr >> ";
+		getline(cin, addr);
+		if (addr.empty()) {
+			cout << "Empty input!" << endl;
+			cout << "Press any key to return Shopping menu.";
+			cin.get();
+			return false;
+		}
+		newM.setAddr(addr);
+		break;
+	case 5: // Birth
+		cout << "Input birth >> ";
+		cin >> birth;
+		cin.get();
+		if (birth > 21000000 || birth < 18000000) {
+			cout << "Invalid birthday" << endl;
+			cout << "Press any key to return Shopping menu.";
+			cin.get();
+			return false;
+		}
+		newM.setBirth(birth);
+		break;
+	case 6: // E-mail
+		cout << "Input E-mail >> ";
+		getline(cin, email);
+		if (email.empty()) {
+			cout << "Empty input!" << endl;
+			cout << "Press any key to return Shopping menu.";
+			cin.get();
+			return false;
+		}
+		newM.setEmail(email);
+	case 7: // Exit
+	default:
+		return true;
+	}
+
+	DelimFieldBuffer buffer('|', MAXBUF);
+	if (!(newM.Pack(buffer))) {
+		cout << "Invalid information" << endl;
+		cout << "Press any key to return Shopping menu.";
+		cin.get();
+		return false;
+	}
+	int bufSize = buffer.PackedLength();
+	int totalSize = prevInfo.second;
+
+	if (newM.getID() != prevM.getID()) {
+		// update info to Purchase
+		vector<pair<int, int> > addrs = SearchFromMapAll(Map_Purchase_MID, prevM.getID());
+		if (!addrs.empty()) {
+			for (pair<int, int> i : addrs) {
+				Purchase prevP = readSpecificDat<Purchase>(datFilePur, i.first);
+				Purchase newP = prevP;
+				newP.setMemberID(newM.getID());
+				cout << newP.getMemberID();
+				PurModifyData(newP, prevP);
+				// Call function
+			}
+		}
+		Map_Member.erase(prevM.getID());
+	}
+
+	if (bufSize <= prevInfo.second) {
+		writeSpecificDat<Member>(datFileMem, newM, recaddr, totalSize - bufSize);
+	}
+	else {
+		recaddr = -1;
+		for (unsigned int i = 0; i < Deleted_Member.size(); i++) {
+			if (Deleted_Member[i].second >= bufSize) {
+				recaddr = Deleted_Member[i].first;
+				totalSize = Deleted_Member[i].second;
+				Deleted_Member.erase(Deleted_Member.begin() + i);
+				break;
+			}
+		}
+		if (recaddr == -1) {
+			RecordFile <Member> MemberFile(buffer);
+			if (!MemberFile.Open(datFileMem.c_str(), ios::out)) {
+				cout << "File write error!" << endl;
+				cout << "Press any key to return Shopping menu.";
+				cin.get();
+				return false;
+			}
+			recaddr = MemberFile.Append(newM);
+			Map_Member[newM.getID()] = make_pair(recaddr, totalSize = bufSize);
+		}
+		else {
+			writeSpecificDat<Member>(datFileMem.c_str(), newM, recaddr, totalSize - bufSize);
+			Map_Member[newM.getID()] = make_pair(recaddr, totalSize);
+		}
+	}
+	Map_Member[newM.getID()] = make_pair(recaddr, totalSize);
+	cout << "Press any key to return Shopping menu.";
+	cin.get();
+	return true;
+}
+
+bool ModifyStock() {
 	char prevID[LEN_STOCKID + 1];
 	long long int tmpid;
 	int recaddr;
@@ -197,7 +362,7 @@ bool ModifyStock() {
 	cin.get();
 	sprintf(prevID, "%012lld", tmpid);
 	prevID[LEN_STOCKID] = '\0';
-	
+
 	pair<int, int> prevInfo = SearchFromMap<Stock>(Map_Stock, prevID);
 	recaddr = prevInfo.first;
 	if (recaddr == -1) {
@@ -246,40 +411,40 @@ bool ModifyStock() {
 			newS.setCategory(material);
 			break;
 		case 3: {// Price
-				int pricetmp;
-				cout << "Input Price(integer format) >> ";
-				cin >> pricetmp;
+			int pricetmp;
+			cout << "Input Price(integer format) >> ";
+			cin >> pricetmp;
+			cin.get();
+			if (pricetmp >= 100000 || pricetmp <= 0) {
+				cout << "Invalid price" << endl;
+				cout << "Press any key to return Shopping menu.";
 				cin.get();
-				if (pricetmp >= 100000 || pricetmp <= 0) {
-					cout << "Invalid price" << endl;
-					cout << "Press any key to return Shopping menu.";
-					cin.get();
-					return false;
-				}
-				ostringstream ss;
-				if (pricetmp >= 1000) {
-					ss << pricetmp / 1000;
-					price = ss.str() + ",";
-					ss.str("");
-					ss.clear();
-					if (!(pricetmp % 1000))
-						price = price + "000";
-					else {
-						ss << pricetmp % 1000;
-						price = price + ss.str();
-					}
-					ss.str("");
-					ss.clear();
-				}
-				else {
-					ss << pricetmp;
-					price = price + ss.str();
-					ss.str("");
-					ss.clear();
-				}
-				newS.setPrice(price);
-				break;
+				return false;
 			}
+			ostringstream ss;
+			if (pricetmp >= 1000) {
+				ss << pricetmp / 1000;
+				price = ss.str() + ",";
+				ss.str("");
+				ss.clear();
+				if (!(pricetmp % 1000))
+					price = price + "000";
+				else {
+					ss << pricetmp % 1000;
+					price = price + ss.str();
+				}
+				ss.str("");
+				ss.clear();
+			}
+			else {
+				ss << pricetmp;
+				price = price + ss.str();
+				ss.str("");
+				ss.clear();
+			}
+			newS.setPrice(price);
+			break;
+		}
 		case 4: // Stock
 			cout << "Input stock >> ";
 			cin >> stock;
