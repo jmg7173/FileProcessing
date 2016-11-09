@@ -154,4 +154,24 @@ static bool readDatPurchase(
 	PurchaseFile.Close();
 	return true;
 }
+
+#include "strings.h"
+extern map<string, pair<int, int> > Map_Member;
+extern map<string, pair<int, int> > Map_Stock;
+extern vector<pair<int, int> > Deleted_Purchase;
+extern vector<pair<int, int> > Deleted_Stock;
+extern vector<pair<int, int> > Deleted_Member;
+static void constructDatas() {
+	readDat<Member>(
+		datFileMem,
+		Deleted_Member,
+		Map_Member);
+	readDat<Stock>(
+		datFileStock,
+		Deleted_Stock,
+		Map_Stock);
+	readDatPurchase(
+		datFilePur,
+		Deleted_Purchase);
+}
 #endif

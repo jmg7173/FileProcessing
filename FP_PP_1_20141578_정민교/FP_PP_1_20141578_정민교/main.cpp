@@ -1,8 +1,3 @@
-/*#include "structure/Student.h"
-#include "utils/recfile.h"
-#include <fstream>
-#include <vector>
-*/
 #include <string>
 #include <iostream>
 #include <stdlib.h>
@@ -13,7 +8,6 @@
 using namespace std;
 
 int main() {
-	int selectNum;
 	int modeflag = 0;
 	string id;
 	// Login
@@ -59,11 +53,16 @@ int main() {
 			cin.get();
 			system("cls");
 		}
+
 		switch (modeflag) {
 		case ADMIN:
 			modeAdmin();
+			break;
 		case USER:
 			modeUser(id);
+			break;
+		default:
+			break;
 		}
 	}
 	/*

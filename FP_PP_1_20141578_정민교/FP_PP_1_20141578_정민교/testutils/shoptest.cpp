@@ -3,7 +3,9 @@
 #include "../utils/recfile.h"
 #include "../utils/rwdata.h"
 #include "../utils/strings.h"
+#ifndef SEARCH_H_
 #include "../shoppingutils/search.h"
+#endif
 #include "../shoppingutils/delete.h"
 #include "../shoppingutils/insert.h"
 #include "../shoppingutils/modify.h"
@@ -24,8 +26,8 @@ extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
 void OnlineShoppingSystem(void) {
 	int selectNum;
 	InitDatas();
-	string filenames[3] = { "fileOfMember.dat","fileOfStock.dat","fileOfPurchase.dat" };
-	readDat<Member>(
+	constructDatas();
+	/*readDat<Member>(
 		datFileMem,
 		Deleted_Member,
 		Map_Member);
@@ -35,7 +37,7 @@ void OnlineShoppingSystem(void) {
 		Map_Stock);
 	readDatPurchase(
 		datFilePur,
-		Deleted_Purchase);
+		Deleted_Purchase);*/
 
 	while (true) {
 		cout << shoppingMenu << ">> ";

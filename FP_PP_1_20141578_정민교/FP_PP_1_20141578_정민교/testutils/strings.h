@@ -110,4 +110,32 @@ const string ModifyPurchaseMenu =
 3. quantity\n\
 4. Exit\n\
 ================================================\n";
+
+const string UserMainMenu =
+"================================================\n\
+	Online Shopping User System Menu\n\
+1. My Member Manage\n\
+2. Stock Search\n\
+3. My Purchase Manage\n\
+4. Exit\n\
+================================================\n";
+
+const string UserMemberMenu = 
+"================================================\n\
+	Member management\n\
+1. Show My Info\n\
+2. Update\n\
+3. Delete Account\n\
+4. Exit\n\
+================================================\n";
+
+const string UserPurchaseMenu =
+"================================================\n\
+	Purchase management\n\
+1. Search\n\
+2. Insert(regist)\n\
+3. Update\n\
+4. Delete\n\
+5. Exit\n\
+================================================\n";
 #endif
