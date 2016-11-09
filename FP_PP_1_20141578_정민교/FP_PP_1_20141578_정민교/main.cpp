@@ -18,6 +18,7 @@ int main() {
 	string id;
 	// Login
 	while (true) {
+		modeflag = 0;
 		string pw;
 		cout << "================================================" << endl;
 		cout << "        Purchase System" << endl;
@@ -33,7 +34,6 @@ int main() {
 				cout << "Logged in successfully! Press Enter.";
 				cin.get();
 				system("cls");
-				break;
 			}
 			else {
 				cout << "Invalid User info. Press Enter.";
@@ -47,7 +47,6 @@ int main() {
 				cout << "Logged in successfully! Press Enter.";
 				cin.get();
 				system("cls");
-				break;
 			}
 			else {
 				cout << "Invalid User info. Press Enter.";
@@ -59,6 +58,12 @@ int main() {
 			cout << "Invalid User info. Press Enter.";
 			cin.get();
 			system("cls");
+		}
+		switch (modeflag) {
+		case ADMIN:
+			modeAdmin();
+		case USER:
+			modeUser(id);
 		}
 	}
 	/*
@@ -101,12 +106,6 @@ int main() {
 		}
 		system("cls");
 	}*/
-	switch (modeflag) {
-	case ADMIN:
-		modeAdmin();
-	case USER:
-		modeUser(id);
-	}
 
 	return 0;
 }
