@@ -9,20 +9,21 @@
 #include "search.h"
 
 template <class Type>
-bool SearchData(map<string, pair<int, int> > MapType, string filename);
+inline bool SearchData(map<string, pair<int, int> > MapType, string filename);
 
 template <class Type>
-pair<int, int> SearchFromMap(map<string, pair<int, int> > MapType, string key);
+inline pair<int, int> SearchFromMap(map<string, pair<int, int> > MapType, string key);
 
-vector<pair<int, int> > SearchFromMapAll(map<string, vector<pair<int, int> > > MapType, string key);
-bool SearchDataPurchase();
+inline vector<pair<int, int> > SearchFromMapAll(map<string, vector<pair<int, int> > > MapType, string key);
+
+inline bool SearchDataPurchase();
 
 extern map<string, pair<int, int> > Map_Purchase_PID;
 extern map<string, vector<pair<int, int> > > Map_Purchase_MID;
 extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
 
 template <class Type>
-bool SearchData(map<string, pair<int, int> > MapType, string filename) {
+inline bool SearchData(map<string, pair<int, int> > MapType, string filename) {
 	string id;
 	cout << "Input ID >> ";
 	getline(cin, id);
@@ -45,21 +46,21 @@ bool SearchData(map<string, pair<int, int> > MapType, string filename) {
 }
 
 template <class Type>
-pair<int, int> SearchFromMap(map<string, pair<int, int> > MapType, string key) {
+inline pair<int, int> SearchFromMap(map<string, pair<int, int> > MapType, string key) {
 	if (MapType.find(key) == MapType.end())
 		return make_pair(-1, -1);
 	else
 		return MapType[key];
 }
 
-vector<pair<int, int> > SearchFromMapAll(map<string, vector<pair<int, int> > > MapType, string key) {
+inline vector<pair<int, int> > SearchFromMapAll(map<string, vector<pair<int, int> > > MapType, string key) {
 	if (MapType.find(key) == MapType.end())
 		return vector<pair<int, int> >();
 	else
 		return MapType[key];
 }
 
-bool SearchDataPurchase() {
+inline bool SearchDataPurchase() {
 	string id;
 	int selectNum;
 	int recaddr;
