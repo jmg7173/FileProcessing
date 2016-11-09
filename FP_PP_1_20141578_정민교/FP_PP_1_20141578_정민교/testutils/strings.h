@@ -19,11 +19,11 @@ const string intro =
 
 const string shoppingMenu =
 "================================================\n\
-	Online Shopping System Menu\n\
+	Online Shopping Manage System Menu\n\
 1. Search\n\
 2. Insert\n\
 3. Delete\n\
-4. Modify\n\
+4. Update\n\
 5. Exit to Main Menu\n\
 	Please input right menu number.\n\
 ================================================\n";
@@ -70,7 +70,7 @@ const string DeleteMenu =
 
 const string ModifyMenu =
 "================================================\n\
-	Modify Menu\n\
+	Update Menu\n\
 1. Member\n\
 2. Stock\n\
 3. Purchase\n\
@@ -80,7 +80,7 @@ const string ModifyMenu =
 
 const string ModifyMemberMenu =
 "================================================\n\
-	Select Menu That You want to Modify\n\
+	Select Menu That You want to Update\n\
 1. ID\n\
 2. Name\n\
 3. P.H.\n\
@@ -92,7 +92,7 @@ const string ModifyMemberMenu =
 
 const string ModifyStockMenu =
 "================================================\n\
-	Select Menu That You want to Modify\n\
+	Select Menu That You want to Update\n\
 1. Category\n\
 2. Material\n\
 3. Price\n\
@@ -104,7 +104,7 @@ const string ModifyStockMenu =
 
 const string ModifyPurchaseMenu =
 "================================================\n\
-	Select Menu That You want to Modify\n\
+	Select Menu That You want to Update\n\
 1. stockID\n\
 2. memberID\n\
 3. quantity\n\

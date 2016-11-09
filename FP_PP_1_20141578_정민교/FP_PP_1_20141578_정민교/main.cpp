@@ -8,15 +8,11 @@
 #include <stdlib.h>
 
 #include "testutils/modetest.h"
-#include "testutils/packtest.h"
-#include "testutils/shoptest.h"
-#include "testutils/showtest.h"
-#include "testutils/strings.h"
-#include "utils/strings.h"
+
 
 using namespace std;
 
-int main () {
+int main() {
 	int selectNum;
 	int modeflag = 0;
 	string id;
@@ -65,15 +61,7 @@ int main () {
 			system("cls");
 		}
 	}
-
 	/*
-	switch(modeflag){
-	case ADMIN:
-	modeManager();
-	case USER:
-	modeUser(id);
-	}
-	*/
 	while (true) {
 		cout << intro;
 		cout << ">> ";
@@ -112,6 +100,13 @@ int main () {
 			return 0;
 		}
 		system("cls");
+	}*/
+	switch (modeflag) {
+	case ADMIN:
+		modeAdmin();
+	case USER:
+		modeUser(id);
 	}
+
 	return 0;
 }
