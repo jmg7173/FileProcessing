@@ -161,6 +161,9 @@
     <ClInclude Include="testutils\idxtest.h">
       <Filter>헤더 파일\testutils</Filter>
     </ClInclude>
+    <ClInclude Include="utils\indexutil.h">
+      <Filter>헤더 파일\utils</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="fileOfMember.dat">

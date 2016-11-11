@@ -12,68 +12,71 @@
 #include "../testutils/strings.h"
 #include "shoptest.h"
 #include "../shoppingutils/search.h"
+#include "../shoppingutils/insert.h"
 #include "../shoppingutils/user.h"
 
-
+#define ERROR -1
 #define ADMIN 1
 #define USER 2
+
+extern map<string, pair<int, int> > Map_Member;
 
 void login() {
 	int modeflag = 0;
 	string id;
-	while (true) {
-		modeflag = 0;
-		string pw;
-		cout << "================================================" << endl;
-		cout << "        Purchase System" << endl;
-		cout << "ID : ";
-		cin >> id;
-		cin.get();
-		cout << "PW : ";
-		cin >> pw;
-		cin.get();
+	string pw;
+	
+	cout << "================================================" << endl;
+	cout << "        Purchase System" << endl;
+	cout << "ID : ";
+	cin >> id;
+	cin.get();
+	cout << "PW : ";
+	cin >> pw;
+	cin.get();
+	if (SearchFromMap<Member>(Map_Member, id).first == -1)
+		modeflag = ERROR;
+	else {
 		if (id == "admin") {
-			if (pw == "adminpass") {
+			if (pw == "adminpass")
 				modeflag = ADMIN;
-				cout << "Logged in successfully! Press Enter.";
-				cin.get();
-				system("cls");
-			}
-			else {
-				cout << "Invalid User info. Press Enter.";
-				cin.get();
-				system("cls");
-			}
+			else
+				modeflag = ERROR;
+
 		}
 		else if (id == "TestUser") {
-			if (pw == "T1234") {
+			if (pw == "T1234")
 				modeflag = USER;
-				cout << "Logged in successfully! Press Enter.";
-				cin.get();
-				system("cls");
-			}
-			else {
-				cout << "Invalid User info. Press Enter.";
-				cin.get();
-				system("cls");
-			}
+			else
+				modeflag = ERROR;
 		}
 		else {
-			cout << "Invalid User info. Press Enter.";
-			cin.get();
-			system("cls");
+			if (pw == "1111")
+				modeflag = USER;
+			else
+				modeflag = ERROR;
 		}
+	}
 
-		switch (modeflag) {
-		case ADMIN:
-			modeAdmin();
-			break;
-		case USER:
-			modeUser(id);
-			break;
-		default:
-			break;
-		}
+	if (modeflag != ERROR) {
+		cout << "Logged in successfully! Press Enter.";
+		cin.get();
+		system("cls");
+	}
+	switch (modeflag) {
+	case ERROR:
+		cout << "Invalid User info. Press Enter.";
+		cin.get();
+		system("cls");
+		break;
+	case ADMIN:
+		modeAdmin();
+		break;
+	case USER:
+		modeUser(id);
+		break;
+	default:
+		break;
 	}
 }
 
@@ -85,8 +88,6 @@ extern map<string, pair<int, int> > Map_Stock;
 void modeUser(string id) {
 	int selectNum;
 	bool deleted;
-	InitDatas();
-	constructDatas();
 
 	while (true) {
 		cout << "\tUser : " << id << endl;
@@ -111,4 +112,30 @@ void modeUser(string id) {
 	}
 }
 
+void constructAdmins() {
+	if (SearchFromMap<Member>(Map_Member, "admin").first == -1) {
+		Member m(
+			"admin", 
+			"admin", 
+			"010-0000-0000", 
+			"Seoul", 
+			19000000, 
+			"admin@sogang.ac.kr",
+			1
+		);
+		AddMemberAsRecord(m);
+	}
+	if (SearchFromMap<Member>(Map_Member, "TestUser").first == -1) {
+		Member m(
+			"TestUser",
+			"TestUser",
+			"010-0000-0000",
+			"Seoul",
+			19000000,
+			"TestUser@sogang.ac.kr",
+			1
+		);
+		AddMemberAsRecord(m);
+	}
+}
 #endif

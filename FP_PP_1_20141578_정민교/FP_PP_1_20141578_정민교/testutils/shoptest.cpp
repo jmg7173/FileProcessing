@@ -25,19 +25,6 @@ extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
 
 void OnlineShoppingSystem(void) {
 	int selectNum;
-	InitDatas();
-	constructDatas();
-	/*readDat<Member>(
-		datFileMem,
-		Deleted_Member,
-		Map_Member);
-	readDat<Stock>(
-		datFileStock,
-		Deleted_Stock,
-		Map_Stock);
-	readDatPurchase(
-		datFilePur,
-		Deleted_Purchase);*/
 
 	while (true) {
 		cout << shoppingMenu << ">> ";

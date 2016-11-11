@@ -178,6 +178,7 @@
     <ClInclude Include="utils\delim.h" />
     <ClInclude Include="utils\fixfld.h" />
     <ClInclude Include="utils\fixlen.h" />
+    <ClInclude Include="utils\indexutil.h" />
     <ClInclude Include="utils\indfile.h" />
     <ClInclude Include="utils\iobuffer.h" />
     <ClInclude Include="utils\rwdata.h" />

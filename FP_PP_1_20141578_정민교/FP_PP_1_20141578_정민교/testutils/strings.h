@@ -3,17 +3,11 @@
 
 #include <string>
 
-const string intro =
+const string FirstScreen =
 "================================================\n\
 	Select Menu\n\
-1 : showMember\n\
-2 : showStock\n\
-3 : showPurchase\n\
-4 : MemberTest\n\
-5 : StockTest\n\
-6 : PurchaseTest\n\
-7 : OnlineShoppingSystem\n\
-8 : Exit Program\n\
+1 : Login\n\
+2 : Exit Program\n\
 	Please input right menu number.\n\
 ================================================\n";
 

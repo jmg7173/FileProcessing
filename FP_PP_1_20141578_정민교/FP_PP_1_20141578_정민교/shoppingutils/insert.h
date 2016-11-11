@@ -75,45 +75,12 @@ bool InsertMember() {
 		}
 
 		Member m(id, name, ph, addr, birth, email);
-		DelimFieldBuffer buffer('|', MAXBUF);
-		if (!(m.Pack(buffer))) {
-			cout << "Invalid information" << endl;
-			cout << "Press any key to return Shopping menu.";
-			cin.get();
-			return false;
-		}
-		int bufSize = buffer.PackedLength();
-		int totalSize;
-		int recaddr = -1;
-
-		for (unsigned int i = 0; i < Deleted_Member.size(); i++) {
-			if (Deleted_Member[i].second >= bufSize) {
-				recaddr = Deleted_Member[i].first;
-				totalSize = Deleted_Member[i].second;
-				Deleted_Member.erase(Deleted_Member.begin() + i);
-				break;
-			}
-		}
-
-		if (recaddr == -1) {
-			RecordFile <Member> MemberFile(buffer);
-			if (!MemberFile.Open(datFileMem.c_str(), ios::out)) {
-				cout << "File write error!" << endl;
-				cout << "Press any key to return Shopping menu.";
-				cin.get();
-				return false;
-			}
-			recaddr = MemberFile.Append(m);
-			Map_Member[id] = make_pair(recaddr, bufSize);
-		}
-		else {
-			writeSpecificDat<Member>(datFileMem.c_str(), m, recaddr, totalSize - bufSize);
-			Map_Member[id] = make_pair(recaddr, totalSize);
-		}
-
+		bool success = AddMemberAsRecord(m);
+		if (!success)
+			cout << "Error at file write" << endl;
 		cout << "Press any key to return Shopping menu.";
 		cin.get();
-		return true;
+		return success;
 	}
 }
 
@@ -343,4 +310,35 @@ bool InsertPurchase() {
 	}
 }
 
+bool AddMemberAsRecord(Member m) {
+	DelimFieldBuffer buffer('|', MAXBUF);
+	if (!(m.Pack(buffer)))
+		return false;
+
+	int bufSize = buffer.PackedLength();
+	int totalSize;
+	int recaddr = -1;
+
+	for (unsigned int i = 0; i < Deleted_Member.size(); i++) {
+		if (Deleted_Member[i].second >= bufSize) {
+			recaddr = Deleted_Member[i].first;
+			totalSize = Deleted_Member[i].second;
+			Deleted_Member.erase(Deleted_Member.begin() + i);
+			break;
+		}
+	}
+
+	if (recaddr == -1) {
+		RecordFile <Member> MemberFile(buffer);
+		if (!MemberFile.Open(datFileMem.c_str(), ios::out))
+			return false;
+		recaddr = MemberFile.Append(m);
+		Map_Member[m.getID()] = make_pair(recaddr, bufSize);
+	}
+	else {
+		writeSpecificDat<Member>(datFileMem.c_str(), m, recaddr, totalSize - bufSize);
+		Map_Member[m.getID()] = make_pair(recaddr, totalSize);
+	}
+	return true;
+}
 #endif
