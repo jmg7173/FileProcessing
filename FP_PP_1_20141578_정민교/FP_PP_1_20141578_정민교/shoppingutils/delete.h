@@ -15,14 +15,14 @@ extern map<string, pair<int, int> > Map_Purchase_PID;
 extern map<string, vector<pair<int, int> > > Map_Purchase_MID;
 extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
 
-bool DeleteFromMem();
-bool DeleteFromStock();
-bool DeleteFromPurchase();
-void MemDeleteData(Member m, int recaddr, string id);
-void StockDeleteData(Stock s, int recaddr, string id);
-void PurDeleteData(Purchase p, int recaddr, string id);
+inline bool DeleteFromMem();
+inline bool DeleteFromStock();
+inline bool DeleteFromPurchase();
+inline void MemDeleteData(Member m, int recaddr, string id);
+inline void StockDeleteData(Stock s, int recaddr, string id);
+inline void PurDeleteData(Purchase p, int recaddr, string id);
 
-bool DeleteFromMem() {
+inline bool DeleteFromMem() {
 	string id;
 	cout << "Input ID >> ";
 	getline(cin, id);
@@ -45,7 +45,7 @@ bool DeleteFromMem() {
 	}
 }
 
-bool DeleteFromStock() {
+inline bool DeleteFromStock() {
 	char id[LEN_STOCKID + 1];
 	long long int tmpid;
 	cout << "Input ID(Under Numeric 12character) >> ";
@@ -74,7 +74,7 @@ bool DeleteFromStock() {
 	}
 }
 
-bool DeleteFromPurchase() {
+inline bool DeleteFromPurchase() {
 	char purchaseID[LEN_PURID + 1] = "\0";
 	long long int tmpid;
 	cout << "Input ID(Under Numeric 16character) >> ";
@@ -102,7 +102,7 @@ bool DeleteFromPurchase() {
 	}
 }
 
-void MemDeleteData(Member m, int recaddr, string id) {
+inline void MemDeleteData(Member m, int recaddr, string id) {
 	unsigned char bufSize;
 
 	// Erase datas from associated Member's data structure and add at Deleted_Member
@@ -142,7 +142,7 @@ void MemDeleteData(Member m, int recaddr, string id) {
 	}
 }
 
-void StockDeleteData(Stock s, int recaddr, string id) {
+inline void StockDeleteData(Stock s, int recaddr, string id) {
 	unsigned char bufSize;
 	// Erase datas from associated Member's data structure and add at Deleted_Member
 	pair<int, int> addr = Map_Stock[id];
@@ -180,7 +180,7 @@ void StockDeleteData(Stock s, int recaddr, string id) {
 	}
 }
 
-void PurDeleteData(Purchase p, int recaddr, string id) {
+inline void PurDeleteData(Purchase p, int recaddr, string id) {
 	unsigned char bufSize;
 	// Erase datas from associated Purchase's data structure and add at Deleted_Purchase
 	pair<int, int> addr = Map_Purchase_PID[id];

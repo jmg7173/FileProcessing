@@ -24,11 +24,11 @@ extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
  */
 
 // TODO
-bool ModifyMember();
-bool ModifyMemberData(string prevID, int recaddr);
-bool ModifyStock();
-bool ModifyPurchase();
-bool PurModifyData(Purchase newP, Purchase prevP);
+inline bool ModifyMember();
+inline bool ModifyMemberData(string prevID, int recaddr);
+inline bool ModifyStock();
+inline bool ModifyPurchase();
+inline bool PurModifyData(Purchase newP, Purchase prevP);
 /*bool ModifyMemberID();
 bool ModifyMemberName();
 bool ModifyMemberPH();
@@ -36,7 +36,7 @@ bool ModifyMemberAddr();
 bool ModifyMemberBirth();
 bool ModifyMemberEmail();*/
 
-bool ModifyMember() {
+inline bool ModifyMember() {
 	string prevID;
 	int recaddr;
 	cout << "Input ID >> ";
@@ -202,7 +202,7 @@ bool ModifyMember() {
 	}
 }
 
-bool ModifyMemberData(string prevID, int recaddr) {
+inline bool ModifyMemberData(string prevID, int recaddr) {
 	pair<int, int> prevInfo = SearchFromMap<Member>(Map_Member, prevID);
 	Member prevM = readSpecificDat<Member>(datFileMem, recaddr);
 	Member newM = prevM;
@@ -353,7 +353,7 @@ bool ModifyMemberData(string prevID, int recaddr) {
 	return true;
 }
 
-bool ModifyStock() {
+inline bool ModifyStock() {
 	char prevID[LEN_STOCKID + 1];
 	long long int tmpid;
 	int recaddr;
@@ -528,7 +528,7 @@ bool ModifyStock() {
 	}
 }
 
-bool ModifyPurchase() {
+inline bool ModifyPurchase() {
 	char purchaseID[LEN_PURID + 1] = "\0";
 	long long int tmpid;
 	int recaddr;
@@ -625,7 +625,7 @@ bool ModifyPurchase() {
 	}
 }
 
-bool PurModifyData(Purchase newP, Purchase prevP) {
+inline bool PurModifyData(Purchase newP, Purchase prevP) {
 	// get previous recaddr and bufsize
 	// decide if just change data or delete and make new data
 	pair<int, int> prevInfo = SearchFromMap<Purchase>(Map_Purchase_PID, prevP.getPurchaseID());

@@ -18,6 +18,65 @@
 #define ADMIN 1
 #define USER 2
 
+void login() {
+	int modeflag = 0;
+	string id;
+	while (true) {
+		modeflag = 0;
+		string pw;
+		cout << "================================================" << endl;
+		cout << "        Purchase System" << endl;
+		cout << "ID : ";
+		cin >> id;
+		cin.get();
+		cout << "PW : ";
+		cin >> pw;
+		cin.get();
+		if (id == "admin") {
+			if (pw == "adminpass") {
+				modeflag = ADMIN;
+				cout << "Logged in successfully! Press Enter.";
+				cin.get();
+				system("cls");
+			}
+			else {
+				cout << "Invalid User info. Press Enter.";
+				cin.get();
+				system("cls");
+			}
+		}
+		else if (id == "TestUser") {
+			if (pw == "T1234") {
+				modeflag = USER;
+				cout << "Logged in successfully! Press Enter.";
+				cin.get();
+				system("cls");
+			}
+			else {
+				cout << "Invalid User info. Press Enter.";
+				cin.get();
+				system("cls");
+			}
+		}
+		else {
+			cout << "Invalid User info. Press Enter.";
+			cin.get();
+			system("cls");
+		}
+
+		switch (modeflag) {
+		case ADMIN:
+			modeAdmin();
+			break;
+		case USER:
+			modeUser(id);
+			break;
+		default:
+			break;
+		}
+	}
+}
+
 void modeAdmin() {
 	OnlineShoppingSystem();
 }
@@ -25,6 +84,7 @@ void modeAdmin() {
 extern map<string, pair<int, int> > Map_Stock;
 void modeUser(string id) {
 	int selectNum;
+	bool deleted;
 	InitDatas();
 	constructDatas();
 
@@ -35,7 +95,7 @@ void modeUser(string id) {
 		cin.get();
 		switch (selectNum) {
 		case 1:
-			UserManage(id);
+			deleted = UserManage(id);
 			break;
 		case 2:
 			SearchData<Stock>(Map_Stock, datFileStock);
@@ -46,6 +106,8 @@ void modeUser(string id) {
 		case 4:
 			return;
 		}
+		if (deleted)
+			return;
 	}
 }
 
