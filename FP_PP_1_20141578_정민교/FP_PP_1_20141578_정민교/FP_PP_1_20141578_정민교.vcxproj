@@ -145,7 +145,6 @@
     <ClCompile Include="structure\member.cpp" />
     <ClCompile Include="structure\purchase.cpp" />
     <ClCompile Include="structure\stock.cpp" />
-    <ClCompile Include="testutils\idxtest.cpp" />
     <ClCompile Include="testutils\shoptest.cpp" />
     <ClCompile Include="utils\buffile.cpp" />
     <ClCompile Include="utils\delim.cpp" />

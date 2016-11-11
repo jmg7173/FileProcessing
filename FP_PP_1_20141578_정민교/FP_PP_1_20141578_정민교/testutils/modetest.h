@@ -7,9 +7,11 @@
 #include "../structure/purchase.h"
 #include "../structure/stock.h"
 #include "../structure/dataset.h"
-#include "../utils/strings.h"
+
 #include "../utils/rwdata.h"
+#include "../utils/strings.h"
 #include "../testutils/strings.h"
+
 #include "shoptest.h"
 #include "../shoppingutils/search.h"
 #include "../shoppingutils/insert.h"
@@ -20,6 +22,10 @@
 #define USER 2
 
 extern map<string, pair<int, int> > Map_Member;
+void login();
+void modeAdmin();
+void modeUser(string id);
+void constructAdmins();
 
 void login() {
 	int modeflag = 0;

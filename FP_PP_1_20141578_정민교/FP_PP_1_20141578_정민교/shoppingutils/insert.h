@@ -28,6 +28,37 @@ extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
  * Then, if purchase added, apply at Stock's stock(as minus)
  * If Stock class's instance stock is negative, reject.
  */
+bool AddMemberAsRecord(Member m) {
+	DelimFieldBuffer buffer('|', MAXBUF);
+	if (!(m.Pack(buffer)))
+		return false;
+
+	int bufSize = buffer.PackedLength();
+	int totalSize;
+	int recaddr = -1;
+
+	for (unsigned int i = 0; i < Deleted_Member.size(); i++) {
+		if (Deleted_Member[i].second >= bufSize) {
+			recaddr = Deleted_Member[i].first;
+			totalSize = Deleted_Member[i].second;
+			Deleted_Member.erase(Deleted_Member.begin() + i);
+			break;
+		}
+	}
+
+	if (recaddr == -1) {
+		RecordFile <Member> MemberFile(buffer);
+		if (!MemberFile.Open(datFileMem.c_str(), ios::out))
+			return false;
+		recaddr = MemberFile.Append(m);
+		Map_Member[m.getID()] = make_pair(recaddr, bufSize);
+	}
+	else {
+		writeSpecificDat<Member>(datFileMem.c_str(), m, recaddr, totalSize - bufSize);
+		Map_Member[m.getID()] = make_pair(recaddr, totalSize);
+	}
+	return true;
+}
 
 bool InsertMember() {
 	string id;
@@ -308,37 +339,5 @@ bool InsertPurchase() {
 		cin.get();
 		return true;
 	}
-}
-
-bool AddMemberAsRecord(Member m) {
-	DelimFieldBuffer buffer('|', MAXBUF);
-	if (!(m.Pack(buffer)))
-		return false;
-
-	int bufSize = buffer.PackedLength();
-	int totalSize;
-	int recaddr = -1;
-
-	for (unsigned int i = 0; i < Deleted_Member.size(); i++) {
-		if (Deleted_Member[i].second >= bufSize) {
-			recaddr = Deleted_Member[i].first;
-			totalSize = Deleted_Member[i].second;
-			Deleted_Member.erase(Deleted_Member.begin() + i);
-			break;
-		}
-	}
-
-	if (recaddr == -1) {
-		RecordFile <Member> MemberFile(buffer);
-		if (!MemberFile.Open(datFileMem.c_str(), ios::out))
-			return false;
-		recaddr = MemberFile.Append(m);
-		Map_Member[m.getID()] = make_pair(recaddr, bufSize);
-	}
-	else {
-		writeSpecificDat<Member>(datFileMem.c_str(), m, recaddr, totalSize - bufSize);
-		Map_Member[m.getID()] = make_pair(recaddr, totalSize);
-	}
-	return true;
 }
 #endif

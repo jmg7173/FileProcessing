@@ -75,9 +75,6 @@
     <ClCompile Include="utils\textind.cpp">
       <Filter>소스 파일\utils</Filter>
     </ClCompile>
-    <ClCompile Include="testutils\idxtest.cpp">
-      <Filter>소스 파일\testutils</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils\buffile.h">
