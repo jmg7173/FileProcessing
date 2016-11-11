@@ -145,6 +145,7 @@
     <ClCompile Include="structure\member.cpp" />
     <ClCompile Include="structure\purchase.cpp" />
     <ClCompile Include="structure\stock.cpp" />
+    <ClCompile Include="testutils\idxtest.cpp" />
     <ClCompile Include="testutils\shoptest.cpp" />
     <ClCompile Include="utils\buffile.cpp" />
     <ClCompile Include="utils\delim.cpp" />
@@ -167,6 +168,7 @@
     <ClInclude Include="structure\member.h" />
     <ClInclude Include="structure\purchase.h" />
     <ClInclude Include="structure\stock.h" />
+    <ClInclude Include="testutils\idxtest.h" />
     <ClInclude Include="testutils\modetest.h" />
     <ClInclude Include="testutils\showtest.h" />
     <ClInclude Include="testutils\shoptest.h" />

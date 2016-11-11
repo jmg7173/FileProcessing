@@ -9,4 +9,6 @@ const string txtFileStock = "listOfStock.txt";
 const string datFileMem = "fileOfMember.dat";
 const string datFilePur = "fileOfPurchase.dat";
 const string datFileStock = "fileOfStock.dat";
+const string idxFileMem = "fileOfMember.ind";
+const string idxFileStock = "fileOfStock.ind";
 #endif

@@ -75,6 +75,9 @@
     <ClCompile Include="utils\textind.cpp">
       <Filter>소스 파일\utils</Filter>
     </ClCompile>
+    <ClCompile Include="testutils\idxtest.cpp">
+      <Filter>소스 파일\testutils</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="utils\buffile.h">
@@ -154,6 +157,9 @@
     </ClInclude>
     <ClInclude Include="shoppingutils\user.h">
       <Filter>헤더 파일\shoppingutils</Filter>
+    </ClInclude>
+    <ClInclude Include="testutils\idxtest.h">
+      <Filter>헤더 파일\testutils</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
