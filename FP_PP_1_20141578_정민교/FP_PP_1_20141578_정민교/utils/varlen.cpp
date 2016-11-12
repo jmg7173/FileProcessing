@@ -58,6 +58,11 @@ int VariableLengthBuffer :: Write (ostream & stream, int skip) const
 	return recaddr;
 }
 
+int VariableLengthBuffer::Delete(ostream & stream, int skip) const
+{
+	Write(stream, skip);
+}
+
 const char * headerStr = "Variable";
 //const int headerSize = strlen (headerStr);
 const int headerSize = 8;

@@ -36,10 +36,12 @@ class IOBuffer
 	// sequential read and write operations
 	virtual int Read (istream &, unsigned char&, unsigned char&) = 0; // read a buffer from the stream
 	virtual int Write (ostream &, int skip = 0) const = 0; // write a buffer to the stream
+	virtual int Delete(ostream &, int skip = 0) const = 0;
 
 	// these are the direct access read and write operations
 	virtual int DRead (istream &, int recref); // read specified record
 	virtual int DWrite (ostream &, int recref, int skip=0) const; // write specified record
+	virtual int DDelete(ostream &, int recref, int skip = 0) const;
 
 	// these header operations return the number of bytes in the header
 	virtual int ReadHeader (istream &); // write a buffer to the stream

@@ -3,12 +3,13 @@
 #define IDXTEST_H_
 
 #include <fstream>
-#include "../structure/dataset.h"
+
 #include "../utils/strings.h"
+#include "../utils/indexutil.h"
+#include "../structure/dataset.h"
 #include "../structure/member.h"
 #include "../structure/stock.h"
-template <class Type>
-void makeIdxFile(const string idxfile, const string datfile, int size);
+
 void checkidx();
 
 extern map<string, pair<int, int> > Map_Member;
@@ -18,18 +19,13 @@ void checkidx() {
 	fstream File;
 	File.open(idxFileMem.c_str(), ios::in | ios::binary);
 	if (!File.good()) {
-		makeIdxFile<Member>(idxFileMem, datFileMem, Map_Member.size());
+		createIdxFile<Member>(idxFileMem, datFileMem, Map_Member.size(), LEN_MEMID);
 	}
 	
 	File.clear();
 	File.open(idxFileStock.c_str(), ios::in | ios::binary);
 	if (!File.good()) {
-		makeIdxFile<Stock>(idxFileStock, datFileStock, Map_Stock.size());
+		createIdxFile<Stock>(idxFileStock, datFileStock, Map_Stock.size(), LEN_STOCKID);
 	}
-}
-
-template <class Type>
-void makeIdxFile(const string idxfile, const string datfile, int size) {
-
 }
 #endif

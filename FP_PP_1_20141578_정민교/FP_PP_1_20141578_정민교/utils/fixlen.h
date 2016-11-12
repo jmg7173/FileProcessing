@@ -14,8 +14,11 @@ class FixedLengthBuffer: public IOBuffer
 	FixedLengthBuffer (const FixedLengthBuffer & buffer); // copy constructor
 
 	void Clear (); // clear values from buffer
-	int Read (istream &);
-	int Write (ostream &) const;
+	int Read (istream &, unsigned char&, unsigned char&);
+	int Write (ostream &, int skip = 0) const;
+	int Delete(ostream &, int skip = 0) const;
+	//int DRead(istream &, int recref);
+	//int DWrite(ostream &, int recref, int skip = 0) const;
 	int ReadHeader (istream &); // read header from stream
 	int WriteHeader (ostream &) const; // write a header to the stream
 	void Print (ostream &) const;

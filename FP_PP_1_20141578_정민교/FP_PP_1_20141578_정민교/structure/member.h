@@ -7,6 +7,8 @@
 
 using namespace std;
 
+#define LEN_MEMID 16
+
 class Member{
 	private:
 		string id;

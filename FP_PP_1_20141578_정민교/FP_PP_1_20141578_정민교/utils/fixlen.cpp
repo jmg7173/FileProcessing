@@ -22,7 +22,7 @@ void FixedLengthBuffer :: Clear ()
 	Packing = TRUE;
 }
 
-int FixedLengthBuffer :: Read (istream & stream)
+int FixedLengthBuffer :: Read (istream & stream, unsigned char&, unsigned char&)
 // write the number of bytes in the buffer field definitions
 {
 	int recaddr = (int)stream . tellg (); stream.clear();
@@ -34,7 +34,7 @@ int FixedLengthBuffer :: Read (istream & stream)
 }
 
 
-int FixedLengthBuffer :: Write (ostream & stream) const
+int FixedLengthBuffer :: Write (ostream & stream, int skip) const
 // read the number of bytes in the buffer field definitions
 // return the location of the record in the file
 {
@@ -43,6 +43,20 @@ int FixedLengthBuffer :: Write (ostream & stream) const
 	if (! stream . good ()) return -1;
 	return recaddr;
 }
+
+int FixedLengthBuffer::Delete(ostream & stream, int skip) const
+{
+	Write(stream, skip);
+}
+/*int FixedLengthBuffer::DRead(istream & stream, int recref) 
+{
+	return IOBuffer::DRead(stream, recref);
+}
+
+int FixedLengthBuffer::DWrite(ostream & stream, int recref, int skip) const
+{
+	return IOBuffer::DWrite(stream, recref, skip);
+}*/
 
 static const char * headerStr = "Fixed";
 //static const int headerStrSize = strlen (headerStr);
@@ -97,6 +111,10 @@ void FixedLengthBuffer :: Print (ostream & stream) const
 {
 	IOBuffer::Print (stream);
 	stream <<  "Fixed ";
+}
+
+int FixedLengthBuffer::SizeOfBuffer() const {
+	return strlen(Buffer);
 }
 
 int FixedLengthBuffer :: Init (int recordSize)
