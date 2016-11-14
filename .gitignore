@@ -70,6 +70,7 @@ artifacts/
 *.scc
 *.txt
 *.dat
+*.ind
 
 # Chutzpah Test files
 _Chutzpah*
