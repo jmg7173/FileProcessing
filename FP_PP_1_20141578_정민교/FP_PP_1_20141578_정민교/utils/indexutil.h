@@ -27,7 +27,7 @@ void createIdxFile(const string idxfile, const string datfile, int size, int LEN
 		if (recaddr == -1) break;
 		if (!bufSize) continue;
 		TypeIndex.Insert(t.Key(), recaddr);
-		cout << recaddr << '\n' << t;
+		//cout << recaddr << '\n' << t;
 	}
 	TypeFile.Close();
 	
@@ -49,9 +49,39 @@ void readIdxFile(const string filename, const string id, int size, int LENID) {
 	TypeIdxedFile.Open(filename.c_str());
 	Type t;
 	TypeIdxedFile.Read(id, t);
-	cout << t;
+	//cout << t;
 
 	TypeIdxedFile.Close();
 }
 
+template <class Type>
+void updateIdxFile(const string filename, char * oldKey, Type& record, int size, int LENID)
+{
+	DelimFieldBuffer buffer('|', MAXBUF);
+	TextIndexedFile<Type> TypeIdxedFile(buf, LENID, size);
+	TypeIdxedFile.Open(filename.c_str());
+	TypeIdxedFile.Update(oldKey, record);
+	TypeIdxedFile.Close();
+}
+
+
+template <class Type>
+void deleteIdxFile(const string filename, Type& record, int size, int LENID)
+{
+	DelimFieldBuffer buffer('|', MAXBUF);
+	TextIndexedFile<Type> TypeIdxedFile(buf, LENID, size);
+	TypeIdxedFile.Open(filename.c_str());
+	TypeIdxedFile.Delete(record);
+	TypeIdxedFile.Close();
+}
+
+template <class Type>
+void insertIdxFile(const string filename, Type& record, int size, int LENID)
+{
+	DelimFieldBuffer buffer('|', MAXBUF);
+	TextIndexedFile<Type> TypeIdxedFile(buf, LENID, size);
+	TypeIdxedFile.Open(filename.c_str());
+	TypeIdxedFile.Append(record);
+	TypeIdxedFile.Close();
+}
 #endif

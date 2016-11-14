@@ -17,7 +17,7 @@ int main() {
 	
 	constructDatas();
 	constructAdmins();
-	//checkidx();
+	checkidx();	
 	
 	cout << "Data construct finished!" << endl;
 	

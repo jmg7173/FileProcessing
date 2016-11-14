@@ -60,7 +60,7 @@ int VariableLengthBuffer :: Write (ostream & stream, int skip) const
 
 int VariableLengthBuffer::Delete(ostream & stream, int skip) const
 {
-	Write(stream, skip);
+	return Write(stream, skip);
 }
 
 const char * headerStr = "Variable";

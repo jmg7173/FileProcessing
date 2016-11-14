@@ -10,10 +10,11 @@
 template <class RecType>
 class TextIndexedFile
 {public:
-	int Read (RecType & record); // read next record
-	int Read (char * key, RecType & record); // read by key
+	int Read (RecType & record, unsigned char&, unsigned char&); // read next record
+	int Read (char * key, RecType & record, unsigned char&, unsigned char&); // read by key
 	int Append (RecType & record);
 	int Update (char * oldKey, RecType & record);
+	int Delete (RecType& record);
 	int Create (char * name, int mode=ios::in|ios::out);
 	int Open (char * name, int mode=ios::in|ios::out);
 	int Close ();
@@ -32,15 +33,15 @@ protected:
 
 // template method bodies
 template <class RecType>
-int TextIndexedFile<RecType>::Read (RecType & record)
-{	return DataFile . Read (record, -1); }
+int TextIndexedFile<RecType>::Read (RecType & record, unsigned char& bufSize, unsigned char& skipSize)
+{	return DataFile . Read (record, bufSize, skipSize, -1); }
 
 template <class RecType>
-int TextIndexedFile<RecType>::Read (char * key, RecType & record)
+int TextIndexedFile<RecType>::Read (char * key, RecType & record, unsigned char& bufSize, unsigned char& skipSize)
 {
 	int ref = Index.Search(key);
 	if (ref < 0) return -1;
-	int result = DataFile . Read (record, ref);
+	int result = DataFile . Read (record, bufSize, skipSize, ref);
 	return result;
 }
 
@@ -61,8 +62,24 @@ int TextIndexedFile<RecType>::Update
 	(char * oldKey, RecType & record)
 // Update is left as an exercise. 
 //	It requires BufferFile::Update, and BufferFile::Delete
-{	return -1;}
+{
+	int ref = Index.Search(oldKey);
+	if (ref < 0) return -1;
+	ref = DataFile.Write(record, ref);
+	Index.Remove(oldKey);
+	Index.Insert(record.Key(), ref);
+	return ref;
+}
 
+template <class RecType>
+int TextIndexedFile<RecType>::Delete (RecType& record) {
+	char *key = record.Key();
+	int ref = Index.Search(key);
+	if (ref < 0) return -1;
+	ref = DataFile.Delete(ref);
+	int result = Index.Remove(record.Key());
+	return ref;
+}
 
 template <class RecType>
 int TextIndexedFile<RecType>::SetFileName(char * fileName,

@@ -22,13 +22,17 @@ void FixedLengthBuffer :: Clear ()
 	Packing = TRUE;
 }
 
-int FixedLengthBuffer :: Read (istream & stream, unsigned char&, unsigned char&)
+int FixedLengthBuffer :: Read (istream & stream, unsigned char& bufferSize, unsigned char& skipSize)
 // write the number of bytes in the buffer field definitions
 {
 	int recaddr = (int)stream . tellg (); stream.clear();
 	Clear ();
 	Packing = FALSE;
 	stream . read (Buffer, BufferSize);
+	if (Buffer[0] == '*') {
+		skipSize = BufferSize;
+		BufferSize = bufferSize = 0;
+	}
 	if (! stream . good ()){stream.clear(); return recaddr;}
 	return recaddr;
 }
@@ -46,7 +50,11 @@ int FixedLengthBuffer :: Write (ostream & stream, int skip) const
 
 int FixedLengthBuffer::Delete(ostream & stream, int skip) const
 {
-	Write(stream, skip);
+	int recaddr = (int)stream.tellp();
+	Buffer[0] = '*';
+	stream.write(Buffer, BufferSize);
+	if (!stream.good()) return -1;
+	return recaddr;
 }
 /*int FixedLengthBuffer::DRead(istream & stream, int recref) 
 {

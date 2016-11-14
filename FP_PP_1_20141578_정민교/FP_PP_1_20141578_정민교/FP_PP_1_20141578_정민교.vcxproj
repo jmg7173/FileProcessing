@@ -189,8 +189,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="fileOfMember.dat" />
+    <None Include="fileOfMember.ind" />
     <None Include="fileOfPurchase.dat" />
     <None Include="fileOfStock.dat" />
+    <None Include="fileOfStock.ind" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="listOfMember.txt" />

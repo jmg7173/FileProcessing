@@ -78,6 +78,11 @@ int BufferFile::Write (int recaddr, int skip)
 		return Buffer . DWrite (File, recaddr, skip);
 }
 
+int BufferFile::Delete(int recaddr, int skip)
+{
+	return Buffer.DDelete(File, recaddr, skip);
+}
+
 int BufferFile::Append ()
 // write the current buffer at the end of File
 {

@@ -6,6 +6,9 @@
 const string txtFileMem = "listOfMember.txt";
 const string txtFilePur = "listOfPurchase.txt";
 const string txtFileStock = "listOfStock.txt";
+const string bodyFileMem = "fileOfMember";
+const string bodyFileStock = "fileOfStock";
+const string bodyFilePur = "fileOfPurchase";
 const string datFileMem = "fileOfMember.dat";
 const string datFilePur = "fileOfPurchase.dat";
 const string datFileStock = "fileOfStock.dat";

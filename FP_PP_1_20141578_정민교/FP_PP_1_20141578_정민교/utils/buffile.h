@@ -40,6 +40,7 @@ class BufferFile
 		// if recaddr == -1, read the next record in the file
 		// if recaddr != -1, read the record at that address
 	int Write (int recaddr = -1, int skip = 0); // write the current buffer contents
+	int Delete(int recaddr, int skip = 0);
 	int Append (); // write the current buffer at the end of file
 
 	// Access to IOBuffer

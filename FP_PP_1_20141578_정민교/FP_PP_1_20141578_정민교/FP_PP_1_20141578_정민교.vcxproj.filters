@@ -172,6 +172,12 @@
     <None Include="fileOfStock.dat">
       <Filter>리소스 파일</Filter>
     </None>
+    <None Include="fileOfStock.ind">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="fileOfMember.ind">
+      <Filter>리소스 파일</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="listOfPurchase.txt">
