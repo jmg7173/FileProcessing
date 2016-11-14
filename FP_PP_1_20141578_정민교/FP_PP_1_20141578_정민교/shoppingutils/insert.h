@@ -28,7 +28,7 @@ extern map<string, vector<pair<int, int> > > Map_Purchase_SID;
  * Then, if purchase added, apply at Stock's stock(as minus)
  * If Stock class's instance stock is negative, reject.
  */
-bool AddMemberAsRecord(Member m) {
+inline bool AddMemberAsRecord(Member m) {
 	DelimFieldBuffer buffer('|', MAXBUF);
 	if (!(m.Pack(buffer)))
 		return false;
@@ -60,7 +60,7 @@ bool AddMemberAsRecord(Member m) {
 	return true;
 }
 
-bool InsertMember() {
+inline bool InsertMember() {
 	string id;
 	cout << "Input ID >> ";
 	getline(cin, id);
@@ -115,7 +115,7 @@ bool InsertMember() {
 	}
 }
 
-bool InsertStock() {
+inline bool InsertStock() {
 	char id[LEN_STOCKID+1];
 	long long int tmpid;
 	cout << "Input ID(Under Numeric 12character) >> ";
@@ -236,7 +236,7 @@ bool InsertStock() {
 }
 
 // TODO
-bool InsertPurchase() {
+inline bool InsertPurchase() {
 	char purchaseID[LEN_PURID + 1] = "\0";
 	long long int tmpid;
 	cout << "Input ID(Under Numeric 16character) >> ";
